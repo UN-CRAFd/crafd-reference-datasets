@@ -34,8 +34,8 @@ df = df.drop(columns=["COUNTRY", "ISO3"])
 
 # reshape to long format, only keep indicator and unique sources
 sources = (
-    df.melt(var_name="indicator", value_name="source")
-    .groupby("indicator", sort=False, as_index=False)["source"]
+    df.melt(var_name="indicator", value_name="sources")
+    .groupby("indicator", sort=False, as_index=False)["sources"]
     .apply(lambda x: x.dropna().unique().tolist())
 )
 
@@ -50,14 +50,10 @@ sources.to_csv(
 
 # count occurrences of each source
 # NOTE: keep combined sources (modeled indicators)
-source_counts = sources.explode("source")["source"].value_counts()
+source_counts = sources.explode("sources")["sources"].value_counts()
 source_counts
 
-source_counts_df = source_counts.reset_index().rename(
-    columns={"index": "source", "source": "count"}
-)
-source_counts_df
-
+source_counts_df = source_counts.reset_index()
 source_counts_df.to_csv(
-    data_folder / "output" / "INFORM_Risk_source_counts.tsv", index=False, sep="\t"
+    data_folder / "output" / "INFORM_Risk_sources_counts.tsv", index=False, sep="\t"
 )
