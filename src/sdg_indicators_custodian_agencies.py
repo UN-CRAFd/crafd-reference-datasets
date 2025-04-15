@@ -87,3 +87,15 @@ df.drop(columns=["panel-body"], inplace=True)
 ## Export
 
 df.to_csv(data_folder / "output" / "sdg_indicators_custodian_agencies.csv", index=False)
+
+
+### Descriptives
+
+# count occurrences of each custodian agency
+custodian_agency_counts = df["agency"].value_counts()
+custodian_agency_counts
+
+source_counts_df = custodian_agency_counts.reset_index()
+source_counts_df.to_csv(
+    data_folder / "output" / "sdg_indicators_custodian_agencies_counts.csv", index=False
+)
