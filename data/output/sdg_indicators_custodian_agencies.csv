@@ -1,0 +1,268 @@
+indicator,agency,website
+"1.1.1 Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)",ILO,http://www.ilo.org/ilostat
+"1.1.1 Proportion of the population living below the international poverty line by sex, age, employment status and geographic location (urban/rural)",World Bank,http://data.worldbank.org
+"1.2.1 Proportion of population living below the national poverty line, by sex and age",World Bank,http://data.worldbank.org
+"1.2.2 Proportion of men, women and children of all ages living in poverty in all its dimensions according to national definitions",World Bank,N/A
+"1.3.1 Proportion of population covered by social protection floors/systems, by sex, distinguishing children, unemployed persons, older persons, persons with disabilities, pregnant women, newborns, work-injury victims and the poor and the vulnerable",ILO,http://www.ilo.org/ilostat
+1.4.1 Proportion of population living in households with access to basic services,UN-Habitat,http://www.unhabitat.org
+"1.4.1 Proportion of population living in households with access to basic services [1.4.1a, b and c]","WHO/UNICEF Joint Monitoring Programme for Water Supply, Sanitation and Hygiene",N/A
+"1.4.2 Proportion of total adult population with secure tenure rights to land, with legally recognized documentation and who perceive their rights to land as secure, by sex and by type of tenure",UN-Habitat,http://www.unhabitat.org
+"1.5.1 Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population[1.5.1/11.5.1/13.1.1 are repeats]",UNDRR,http://www.preventionweb.net/drr-framework/sendai-framework-monitor/
+1.5.2 Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)[1.5.2/11.5.2 are repeats],UNDRR,http://www.preventionweb.net/drr-framework/sendai-framework-monitor/
+1.5.3 Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015-2030[1.5.3/11.b.1/13.1.2 are repeats],UNDRR,http://www.preventionweb.net/drr-framework/sendai-framework-monitor/
+1.5.4 Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies[1.5.4/11.b.2/13.1.3 are repeats],UNDRR,http://www.preventionweb.net/drr-framework/sendai-framework-monitor/
+1.a.1 Total official development assistance grants from all donors that focus on poverty reduction as a share of the recipient country’s gross national income,OECD,http://www.oecd.org/dac/financing-sustainable-development/
+"1.a.2 Proportion of total government spending on essential services (education, health and social protection)",IMF,http://data.imf.org
+1.b.1 Pro-poor public social spending,Save the Children,http://www.savethechildren.org.uk 
+2.1.1 Prevalence of undernourishment,FAO,http://www.fao.org/sustainable-development-goals/indicators/en/
+"2.1.2 Prevalence of moderate or severe food insecurity in the population, based on the Food Insecurity Experience Scale (FIES)",FAO,http://www.fao.org/sustainable-development-goals/indicators/en/
+2.2.1 Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age,UNICEF,http://data.unicef.org
+"2.2.2 Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight)",UNICEF,http://data.unicef.org
+"2.2.3 Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status (percentage)",WHO,http://www.who.int/nutrition
+2.3.1 Volume of production per labour unit by classes of farming/pastoral/forestry enterprise size,FAO,http://www.fao.org/sustainable-development-goals/indicators/231/en/
+"2.3.2 Average income of small-scale food producers, by sex and indigenous status",FAO,http://www.fao.org/sustainable-development-goals/indicators/232/en/
+2.4.1 Proportion of agricultural area under productive and sustainable agriculture,FAO,http://www.fao.org/sustainable-development-goals/indicators/241/en/
+2.5.1 Number of (a) plant and (b) animal genetic resources for food and agriculture secured in either medium or long-term conservation facilities[for part (a) only],FAO,http://www.fao.org/sustainable-development-goals/indicators/251a/en/
+2.5.1 Number of (a) plant and (b) animal genetic resources for food and agriculture secured in either medium or long-term conservation facilities[for part (b) only],FAO,http://www.fao.org/sustainable-development-goals/indicators/251b/en/ 
+2.5.2 Proportion of local breeds classified as being at risk of extinction,FAO,http://www.fao.org/sustainable-development-goals/indicators/252/en/ 
+2.a.1 The agriculture orientation index for government expenditures,FAO,http://www.fao.org/sustainable-development-goals/indicators/2a1/en/
+2.a.2 Total official flows (official development assistance plus other official flows) to the agriculture sector,OECD,http://www.oecd.org/dac/financing-sustainable-development/
+2.b.1 Agricultural export subsidies,WTO,http://www.wto.org
+2.c.1 Indicator of food price anomalies,FAO,http://www.fao.org/sustainable-development-goals-data-portal/data/indicators/2c1---indicator-of-(food)-price-anomalies/en
+3.1.1 Maternal mortality ratio,WHO,http://www.who.int/reproductivehealth/about_us/hrp/en/
+3.1.2 Proportion of births attended by skilled health personnel,UNICEF,http://data.unicef.org
+3.2.1 Under-five mortality rate,UNICEF,http://www.childmortality.org
+3.2.2 Neonatal mortality rate,UNICEF,http://www.childmortality.org
+"3.3.1 Number of new HIV infections per 1,000 uninfected population, by sex, age and key populations",UNAIDS,http://www.unaids.org
+"3.3.2 Tuberculosis incidence per 100,000 population",WHO,N/A
+"3.3.3 Malaria incidence per 1,000 population",WHO,http://www.who.int/malaria
+"3.3.4 Hepatitis B incidence per 100,000 population",WHO,http://whohbsagdashboard.com/#global-strategies
+3.3.5 Number of people requiring interventions against neglected tropical diseases,WHO,http://www.who.int/neglected_diseases/en/
+"3.4.1 Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",WHO,N/A
+3.4.2 Suicide mortality rate,WHO,N/A
+"3.5.1 Coverage of treatment interventions (pharmacological, psychosocial and rehabilitation and aftercare services) for substance use disorders",UNODC,http://www.unodc.org/unodc/en/data-and-analysis/index.html
+3.5.2 Alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol,WHO,http://www.who.int/substance_abuse/en/
+3.6.1 Death rate due to road traffic injuries,WHO,N/A
+3.7.1 Proportion of women of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,DESA-PopDiv,http://www.un.org/en/development/desa/population/projects/making-family-planning-count/index.shtml
+"3.7.2 Adolescent birth rate (aged 10-14 years; aged 15-19 years) per 1,000 women in that age group",DESA-PopDiv,http://www.un.org/en/development/desa/population/theme/fertility/index.shtml
+3.8.1 Coverage of essential health services,WHO,N/A
+3.8.2 Proportion of population with large household expenditures on health as a share of total household expenditure or income,WHO,http://www.who.int/health-topics/financial-protection#tab=tab_1
+3.9.1 Mortality rate attributed to household and ambient air pollution,WHO,http://www.who.int/phe
+"3.9.2 Mortality rate attributed to unsafe water, unsafe sanitation and lack of hygiene (exposure to unsafe Water, Sanitation and Hygiene for All (WASH) services)",WHO,http://www.who.int/water_sanitation_health/en/
+3.9.3 Mortality rate attributed to unintentional poisoning,WHO,"http://www.who.int/phe/en/, www.who.int/gho/en/"
+3.a.1 Age-standardized prevalence of current tobacco use among persons aged 15 years and older,WHO,http://www.who.int/tobacco/en/
+3.b.1 Proportion of the target population covered by all vaccines included in their national programme,WHO,http://www.who.int/immunization/monitoring_surveillance/data/en/
+3.b.2 Total net official development assistance to medical research and basic health sectors,OECD,http://www.oecd.org/dac/financing-sustainable-development/
+3.b.3 Proportion of health facilities that have a core set of relevant essential medicines available and affordable on a sustainable basis,WHO,http://www.who.int/medicines/areas/policy/monitoring/empmedmon/en/
+3.c.1 Health worker density and distribution,WHO,N/A
+3.d.1 International Health Regulations (IHR) capacity and health emergency preparedness,WHO,http://www.who.int/ihr/procedures/monitoring/en/
+3.d.2 Percentage of bloodstream infections due to selected antimicrobial-resistant organisms,WHO,http://www.who.int/data/gho/data/themes/topics/indicator-groups/indicator-group-details/GHO/sdg-target-3.d.2---bloodstream-infections-due-to-selected-antimicrobial-resistant-organisms
+"4.1.1 Proportion of children and young people: (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex",UNESCO-UIS,http://www.uis.unesco.org
+"4.1.2 Completion rate (primary education, lower secondary education, upper secondary education",UNESCO-UIS,http://uis.unesco.org/
+"4.2.1 Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex",UNICEF,http://data.unicef.org
+"4.2.2 Participation rate in organized learning (one year before the official primary entry age), by sex",UNESCO-UIS,http://www.uis.unesco.org
+"4.3.1 Participation rate of youth and adults in formal and non-formal education and training in the previous 12 months, by sex",UNESCO-UIS,http://www.uis.unesco.org
+"4.4.1 Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill",ITU,http://www.itu.int/en/ITU-D/Statistics/Pages/default.aspx
+"4.4.1 Proportion of youth and adults with information and communications technology (ICT) skills, by type of skill",UNESCO-UIS,http://www.uis.unesco.org
+"4.5.1 Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated",UNESCO-UIS,http://www.uis.unesco.org
+"4.6.1 Proportion of population in a given age group achieving at least a fixed level of proficiency in functional (a) literacy and (b) numeracy skills, by sex",UNESCO-UIS,http://www.uis.unesco.org
+4.7.1 Extent to which (i) global citizenship education and (ii) education for sustainable development (including climate change education) are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment[4.7.1/12.8.1/13.3.1 are repeats],UNESCO,http://www.unesco.org
+4.a.1 Proportion of schools with access to: (a) electricity; (b) the Internet for pedagogical purposes; (c) computers for pedagogical purposes; (d) adapted infrastructure and materials for students with disabilities; (e) basic drinking water; (f) single-sex basic sanitation facilities; and (g) basic handwashing facilities (as per the WASH indicator definitions),UNESCO-UIS,http://www.uis.unesco.org
+4.b.1 Volume of official development assistance flows for scholarships by sector and type of study,OECD,http://www.oecd.org/dac/financing-sustainable-development/
+4.c.1 Proportion of teachers in: (a) pre-primary; (b) primary; (c) lower secondary; and (d) upper secondary education who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country,UNESCO-UIS,http://www.uis.unesco.org
+"5.1.1 Whether or not legal frameworks are in place to promote, enforce and monitor equality and non‑discrimination on the basis of sex",UN Women,N/A
+"5.2.1 Proportion of ever-partnered women and girls aged 15 years and older subjected to physical, sexual or psychological violence by a current or former intimate partner in the previous 12 months, by form of violence and by age",WHO,http://www.who.int/reproductivehealth/topics/violence/en/ 
+"5.2.2 Proportion of women and girls aged 15 years and older subjected to sexual violence by persons other than an intimate partner in the previous 12 months, by age and place of occurrence",WHO,http://www.who.int/reproductivehealth/topics/violence/en/ 
+5.3.1 Proportion of women aged 20-24 years who were married or in a union before age 15 and before age 18,UNICEF,http://data.unicef.org
+"5.3.2 Proportion of girls and women aged 15-49 years who have undergone female genital mutilation, by age",UNICEF,http://data.unicef.org
+"5.4.1 Proportion of time spent on unpaid domestic and care work, by sex, age and location",DESA-UNSD,http://unstats.un.org/unsd/gender/default.html
+5.5.1 Proportion of seats held by women in (a) national parliaments and (b) local governments[for part (a) only],IPU,http://www.data.ipu.org
+5.5.1 Proportion of seats held by women in (a) national parliaments and (b) local governments[for part (b) only],UN Women,http://www.unwomen.org/
+5.5.2 Proportion of women in managerial positions,ILO,http://www.ilo.org/ilostat
+"5.6.1 Proportion of women aged 15-49 years who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care",UNFPA,http://www.unfpa.org
+"5.6.2 Number of countries with laws and regulations that guarantee full and equal access to women and men aged 15 years and older to sexual and reproductive health care, information and education",UNFPA,http://www.unfpa.org
+"5.a.1 (a) Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure",FAO,http://www.fao.org/sustainable-development-goals/en/
+5.a.2 Proportion of countries where the legal framework (including customary law) guarantees women’s equal rights to land ownership and/or control,FAO,http://www.fao.org/sustainable-development-goals/indicators/5a2/en/
+"5.b.1 Proportion of individuals who own a mobile telephone, by sex",ITU,http://www.itu.int/en/ITU-D/Statistics/Pages/default.aspx
+5.c.1 Proportion of countries with systems to track and make public allocations for gender equality and women’s empowerment,UN-Women,http://effectivecooperation.org
+6.1.1 Proportion of population using safely managed drinking water services,UNICEF,http://washdata.org; data.unicef.org
+"6.2.1 Proportion of population using safely managed sanitation services, including a hand-washing facility with soap and water",UNICEF,http://washdata.org; data.unicef.org
+6.3.1 Proportion of domestic and industrial wastewater flows safely treated,UN-Habitat,http://www.unhabitat.org
+6.3.1 Proportion of domestic and industrial wastewater flows safely treated,DESA-UNSD,http://unstats.un.org/unsd/envstats/qindicators
+6.3.1 Proportion of domestic and industrial wastewater flows safely treated,WHO,http://www.who.int/water_sanitation_health/en/
+6.3.2 Proportion of bodies of water with good ambient water quality,UNEP,http://wesr.unep.org
+6.4.1 Change in water-use efficiency over time,FAO,http://www.fao.org/sustainable-development-goals/indicators/641/en/ 
+6.4.2 Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,FAO,http://www.fao.org/sustainable-development-goals/indicators/642/en/
+6.5.1 Degree of integrated water resources management implementation (0-100),UNEP,http://wesr.unep.org
+6.5.2 Proportion of transboundary basin area with an operational arrangement for water cooperation,UNECE,http://www.unece.org/water/transboundary_water_cooperation_reporting.html
+6.6.1 Change in the extent of water-related ecosystems over time,UNEP,http://wesr.unep.org
+6.6.1 Change in the extent of water-related ecosystems over time,Ramsar Convention,http://www.ramsar.org
+6.a.1 Amount of water- and sanitation-related official development assistance that is part of a government-coordinated spending plan,OECD,http://www.oecd.org/dac/financing-sustainable-development/
+6.b.1 Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,WHO,http://www.who.int/water_sanitation_health/monitoring/investments/en/
+7.1.1 Proportion of population with access to electricity,World Bank,http://data.worldbank.org
+7.1.2 Proportion of population with primary reliance on clean fuels and technology,WHO,http://www.who.int/phe
+7.2.1 Renewable energy share in the total final energy consumption,IEA,http://www.iea.org/statistics
+7.3.1 Energy intensity measured in terms of primary energy and GDP,IEA,http://www.iea.org/statistics
+"7.a.1 International financial flows to developing countries in support of clean energy research and development and renewable energy production, including in hybrid systems",IRENA,http://www.irena.org/
+7.b.1 Installed renewable energy-generating capacity in developing and developed countries (in watts per capita)[7.b.1/12.a.1 are repeats],IRENA,http://www.irena.org/
+8.1.1 Annual growth rate of real GDP per capita,DESA-UNSD,http://unstats.un.org/unsd/nationalaccount/
+8.2.1 Annual growth rate of real GDP per employed person,ILO,http://www.ilo.org/ilostat
+"8.3.1 Proportion of informal employment in total employment, by sector and sex",ILO,http://www.ilo.org/ilostat
+"8.4.1 Material footprint, material footprint per capita, and material footprint per GDP[8.4.1/12.2.1 are repeats]",UNEP,http://wesr.unep.org
+"8.4.2 Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP[8.4.2/12.2.2 are repeats]",UNEP,http://wesr.unep.org
+"8.5.1 Average hourly earnings of female and male employees, by occupation, age and persons with disabilities",ILO,http://www.ilo.org/ilostat
+"8.5.2 Unemployment rate, by sex, age and persons with disabilities",ILO,http://www.ilo.org/ilostat
+"8.6.1 Proportion of youth (aged 15-24 years) not in education, employment or training",ILO,http://www.ilo.org/ilostat
+"8.7.1 Proportion and number of children aged 5‑17 years engaged in child labour, by sex and age",ILO,http://www.ilo.org/ilostat
+"8.8.1 Frequency rates of fatal and non-fatal occupational injuries, by sex and migrant status",ILO,http://www.ilo.org/ilostat
+"8.8.2 Level of national compliance of labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation, by sex and migrant status",ILO,http://www.ilo.org
+8.9.1 Tourism direct GDP as a proportion of total GDP and in growth rate,UNWTO,http://www.unwto.org
+"8.10.1 (a) Number of commercial bank branches per 100,000 adults and (b) number of automated teller machines (ATMs) per 100,000 adults",IMF,http://data.imf.org/FAS
+8.10.2 Proportion of adults (15 years and older) with an account at a bank or other financial institution or with a mobile-money-service provider,World Bank,http://data.worldbank.org
+8.a.1 Aid for Trade commitments and disbursements,OECD,http://www.oecd.org/dac/financing-sustainable-development/
+"8.b.1 Existence of a developed and operationalized national strategy for youth employment, as a distinct strategy or as part of a national employment strategy",ILO,http://www.ilo.org
+9.1.1 Proportion of the rural population who live within 2 km of an all-season road,World Bank,http://data.worldbank.org
+"9.1.2 Passenger and freight volumes, by mode of transport[for AVIATION]",ICAO,N/A
+"9.1.2 Passenger and freight volumes, by mode of transport[for MARITIME]",UNCTAD,N/A
+"9.1.2 Passenger and freight volumes, by mode of transport[for ROAD, RAIL and INLAND WATERWAYS]",ITF-OECD,N/A
+9.2.1 Manufacturing value added as a proportion of GDP and per capita,UNIDO,http://stat.unido.org
+9.2.2 Manufacturing employment as a proportion of total employment,UNIDO,http://stat.unido.org
+9.3.1 Proportion of small-scale industries in total industry value added,UNIDO,http://stat.unido.org
+9.3.2 Proportion of small-scale industries with a loan or line of credit,UNIDO,http://stat.unido.org
+9.4.1 CO2 emission per unit of value added,UNIDO,http://stat.unido.org
+9.5.1 Research and development expenditure as a proportion of GDP,UNESCO-UIS,http://www.uis.unesco.org
+9.5.2 Researchers (in full-time equivalent) per million inhabitants,UNESCO-UIS,http://www.uis.unesco.org
+9.a.1 Total official international support (official development assistance plus other official flows) to infrastructure,OECD,http://www.oecd.org/dac/financing-sustainable-development/
+9.b.1 Proportion of medium and high-tech industry value added in total value added,UNIDO,http://stat.unido.org
+"9.c.1 Proportion of population covered by a mobile network, by technology",ITU,http://www.itu.int/en/ITU-D/Statistics/Pages/default.aspx
+10.1.1 Growth rates of household expenditure or income per capita among the bottom 40 per cent of the population and the total population,World Bank,http://data.worldbank.org
+"10.2.1 Proportion of people living below 50 per cent of median income, by sex, age and persons with disabilities",World Bank,http://data.worldbank.org
+10.3.1 Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law[10.3.1/16.b.1 are repeats],OHCHR,http://www.ohchr.org/en/issues/indicators/pages/hrindicatorsindex.aspx
+"10.4.1 Labour share of GDP, comprising wages and social protection transfers",ILO,http://www.ilo.org/ilostat
+10.4.2 Redistributive impact of fiscal policy,World Bank,N/A
+10.5.1 Financial Soundness Indicators,IMF,http://www.imf.org/external/np/sta/fsi/eng/fsi.htm
+10.6.1 Proportion of members and voting rights of developing countries in international organizations[10.6.1/16.8.1 are repeats],DESA-Financing for Sustainable Development Office,http://financing.desa.un.org/
+10.7.1 Recruitment cost borne by employee as a proportion of monthly income earned in country of destination,ILO,http://www.ilo.org/ilostat
+"10.7.2 Proportion of countries with migration policies that facilitate orderly, safe, regular and responsible migration and mobility of people",DESA-PopDiv,http://www.un.org/en/development/desa/population/theme/policy/index.shtml
+10.7.3 Number of people who died or disappeared in the process of migration towards an international destination,IOM,http://missingmigrants.iom.int
+"10.7.4 Proportion of the population who are refugees, by country of origin",UNHCR,http://www.unhcr.org/data.html
+10.a.1 Proportion of tariff lines applied to imports from least developed countries and developing countries with zero-tariff,ITC,http://www.intracen.org
+"10.b.1 Total resource flows for development, by recipient and donor countries and type of flow (e.g. official development assistance, foreign direct investment and other flows)",OECD,http://www.oecd.org/dac/financing-sustainable-development/
+10.c.1 Remittance costs as a proportion of the amount remitted,World Bank,http://data.worldbank.org
+"11.1.1 Proportion of urban population living in slums, informal settlements or inadequate housing",UN-Habitat,http://www.unhabitat.org
+"11.2.1 Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities",UN-Habitat,http://www.unhabitat.org
+11.3.1 Ratio of land consumption rate to population growth rate,UN-Habitat,http://www.unhabitat.org
+11.3.2 Proportion of cities with a direct participation structure of civil society in urban planning and management that operate regularly and democratically,UN-Habitat,http://www.unhabitat.org
+"11.4.1 Total expenditure (public and private) per capita spent on the preservation, protection and conservation of all cultural and natural heritage, by type of heritage (cultural, natural, mixed and World Heritage Centre designation), level of government (national, regional and local/municipal), type of expenditure (operating expenditure/investment) and type of private funding (donations in kind, private non-profit sector and sponsorship)",UNESCO-UIS,http://www.uis.unesco.org
+"11.5.1 Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population[1.5.1/11.5.1/13.1.1 are repeats]",UNDRR,http://www.preventionweb.net/drr-framework/sendai-framework-monitor/
+11.5.2 Direct economic loss attributed to disasters in relation to global gross domestic product (GDP)[1.5.2/11.5.2 are repeats],UNDRR,http://www.preventionweb.net/drr-framework/sendai-framework-monitor/
+"11.5.3 (a) Damage to critical infrastructure and (b) number of disruptions to basic services, attributed to disasters",UNDRR,http://www.preventionweb.net/drr-framework/sendai-framework-monitor/
+"11.6.1 Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated, by cities",UN-Habitat,http://www.unhabitat.org
+"11.6.1 Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated, by cities",DESA-UNSD,http://unstats.un.org/unsd/envstats/qindicators
+11.6.2 Annual mean levels of fine particulate matter (e.g. PM2.5 and PM10) in cities (population weighted),WHO,http://www.who.int/phe
+"11.7.1 Average share of the built-up area of cities that is open space for public use for all, by sex, age and persons with disabilities",UN-Habitat,http://www.unhabitat.org
+"11.7.2 Proportion of persons victim of non-sexual or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months",UNODC,http://www.unodc.org/unodc/en/data-and-analysis/index.html
+11.a.1 Number of countries that have national urban policies or regional development plans that (a) respond to population dynamics; (b) ensure balanced territorial development; and (c) increase local fiscal space,UN-Habitat,http://www.unhabitat.org
+11.b.1 Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015-2030[1.5.3/11.b.1/13.1.2 are repeats],UNDRR,http://www.preventionweb.net/drr-framework/sendai-framework-monitor/
+11.b.2 Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies[1.5.4/11.b.2/13.1.3 are repeats],UNDRR,http://www.preventionweb.net/drr-framework/sendai-framework-monitor/
+12.1.1 Number of countries with sustainable consumption and production (SCP) national action plans or SCP mainstreamed as a priority or a target into national policies,UNEP,http://wesr.unep.org
+"12.2.1 Material footprint, material footprint per capita, and material footprint per GDP[8.4.1/12.2.1 are repeats]",UNEP,http://wesr.unep.org
+"12.2.2 Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP[8.4.2/12.2.2 are repeats]",UNEP,http://wesr.unep.org
+12.3.1 (a) Food loss index and (b) food waste index[for part (a)],FAO,http://www.fao.org/sustainable-development-goals/indicators/1231/en/
+12.3.1 (a) Food loss index and (b) food waste index[for part (b)],UNEP,http://wesr.unep.org
+"12.4.1 Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement",UNEP,http://wesr.unep.org
+"12.4.2 Hazardous waste generated per capita and proportion of hazardous waste treated, by type of treatment",UNEP,http://wesr.unep.org
+"12.5.1 National recycling rate, tons of material recycled",UNEP,http://wesr.unep.org
+12.6.1 Number of companies publishing sustainability reports,UNEP,http://wesr.unep.org
+12.7.1 Number of countries implementing sustainable public procurement policies and action plans,UNEP,http://wesr.unep.org
+12.8.1 Extent to which (i) global citizenship education and (ii) education for sustainable development (including climate change education) are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment[4.7.1/12.8.1/13.3.1 are repeats],UNESCO,http://www.unesco.org
+12.a.1 Installed renewable energy-generating capacity in developing and developed countries (in watts per capita)[7.b.1/12.a.1 are repeats],IRENA,http://www.irena.org/
+12.b.1 Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism sustainability,UNWTO,http://www.unwto.org/
+12.c.1 Amount of fossil-fuel subsidies per unit of GDP (production and consumption) and as a proportion of total national expenditure on fossil fuels,UNEP,http://wesr.unep.org
+"13.1.1 Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population[1.5.1/11.5.1/13.1.1 are repeats]",UNDRR,http://www.preventionweb.net/drr-framework/sendai-framework-monitor/
+13.1.2 Number of countries that adopt and implement national disaster risk reduction strategies in line with the Sendai Framework for Disaster Risk Reduction 2015-2030[1.5.3/11.b.1/13.1.2 are repeats],UNDRR,http://www.preventionweb.net/drr-framework/sendai-framework-monitor/
+13.1.3 Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies[1.5.4/11.b.2/13.1.3 are repeats],UNDRR,http://www.preventionweb.net/drr-framework/sendai-framework-monitor/
+"13.2.1 Number of countries with nationally determined contributions, long-term strategies, national adaptation plans and adaptation communications, as reported to the secretariat of the United Nations Framework Convention on Climate Change[13.2.1/13.b.1 are repeats with slight difference]",UNFCCC,http://www.unfccc.int
+13.2.2 Total greenhouse gas emissions per year,UNFCCC,http://www.unfccc.int
+13.3.1 Extent to which (i) global citizenship education and (ii) education for sustainable development (including climate change education) are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment[4.7.1/12.8.1/13.3.1 are repeats],UNESCO,http://www.unesco.org
+13.a.1 Amounts provided and mobilized in United States dollars per year in relation to the continued existing collective mobilization goal of the $100 billion commitment through to 2025,UNFCCC,http://www.unfccc.int
+"13.b.1 Number of least developed countries and small island developing States with nationally determined contributions, long-term strategies, national adaptation plans and adaptation communications, as reported to the secretariat of the United Nations Framework Convention on Climate Change[13.2.1/13.b.1 are repeats with slight difference]",UNFCCC,http://www.unfccc.int
+14.1.1 (a) Index of coastal eutrophication; and (b) plastic debris density,UNEP,http://wesr.unep.org
+14.2.1 Number of countries using ecosystem-based approaches to managing marine areas,UNEP,http://wesr.unep.org
+14.3.1 Average marine acidity (pH) measured at agreed suite of representative sampling stations,UNESCO-IOC,http://ioc.unesco.org
+14.4.1 Proportion of fish stocks within biologically sustainable levels,FAO,http://www.fao.org/sustainable-development-goals/indicators/en/
+14.5.1 Coverage of protected areas in relation to marine areas,UNEP-WCMC,http://www.unep-wcmc.org/
+14.5.1 Coverage of protected areas in relation to marine areas,UNEP,http://wesr.unep.org
+"14.6.1 Degree of implementation of international instruments aiming to combat illegal, unreported and unregulated fishing",FAO,http://www.fao.org/sustainable-development-goals/indicators/1461/en/
+"14.7.1 Sustainable fisheries as a proportion of GDP in small island developing States, least developed countries and all countries",FAO,http://www.fao.org/sustainable-development-goals/indicators/1471/en/
+14.a.1 Proportion of total research budget allocated to research in the field of marine technology,UNESCO-IOC,http://ioc.unesco.org
+14.b.1 Degree of application of a legal/regulatory/ policy/institutional framework which recognizes and protects access rights for small-scale fisheries,FAO,http://www.fao.org/sustainable-development-goals/indicators/14b1/en/
+"14.c.1 Number of countries making progress in ratifying, accepting and implementing through legal, policy and institutional frameworks, ocean-related instruments that implement international law, as reflected in the United Nations Convention on the Law of the Sea, for the conservation and sustainable use of the oceans and their resources",UN-DOALOS,http://www.un.org/Depts/los/index.htm
+15.1.1 Forest area as a proportion of total land area,FAO,http://www.fao.org/sustainable-development-goals/indicators/1511/en/ 
+"15.1.2 Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type",UNEP-WCMC,http://www.unep-wcmc.org/
+"15.1.2 Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type",UNEP,http://wesr.unep.org
+15.2.1 Progress towards sustainable forest management,FAO,http://www.fao.org/sustainable-development-goals/indicators/1521/en/ 
+15.3.1 Proportion of land that is degraded over total land area,UNCCD,http://www.unccd.int
+15.4.1 Coverage by protected areas of important sites for mountain biodiversity,UNEP-WCMC,http://www.unep-wcmc.org/
+15.4.1 Coverage by protected areas of important sites for mountain biodiversity,UNEP,http://wesr.unep.org
+15.4.2 (a) Mountain Green Cover Index and (b) proportion of degraded mountain land,FAO,http://www.fao.org/sustainable-development-goals/indicators/1542/en/ 
+15.5.1 Red List Index,IUCN,http://www.iucnredlist.org/
+"15.6.1 Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits",CBD,http://www.cbd.int
+15.7.1 Proportion of traded wildlife that was poached or illicitly trafficked[15.7.1/15.c.1 are repeats],UNODC,http://www.unodc.org/unodc/en/data-and-analysis/index.html
+15.8.1 Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species,IUCN,http://www.issg.org/
+"15.9.1 (a) Number of countries that have established national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011–2020 in their national biodiversity strategy and action plans and the progress reported towards these targets; and (b) integration of biodiversity into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting[information below for subindicator (a)]",UNEP,http://wesr.unep.org
+"15.9.1 (a) Number of countries that have established national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011–2020 in their national biodiversity strategy and action plans and the progress reported towards these targets; and (b) integration of biodiversity into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting[information below for subindicator (b)]",UNEP,http://wesr.unep.org
+15.a.1 (a) Official development assistance on conservation and sustainable use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant economic instruments[15.a.1/15.b.1 are repeats],OECD,http://www.oecd.org/dac/financing-sustainable-development/
+15.b.1 (a) Official development assistance on conservation and sustainable use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant economic instruments[15.a.1/15.b.1 are repeats],OECD,http://www.oecd.org/dac/financing-sustainable-development/
+15.c.1 Proportion of traded wildlife that was poached or illicitly trafficked[15.7.1/15.c.1 are repeats],UNODC,http://www.unodc.org/unodc/en/data-and-analysis/index.html
+"16.1.1 Number of victims of intentional homicide per 100,000 population, by sex and age",UNODC,http://www.unodc.org/unodc/en/data-and-analysis/index.html
+"16.1.2 Conflict-related deaths per 100,000 population, by sex, age and cause",OHCHR,http://www.ohchr.org/en/issues/indicators/pages/hrindicatorsindex.aspx
+"16.1.3 Proportion of population subjected to (a) physical violence, (b) psychological violence and/or (c) sexual violence in the previous 12 months",UNODC,http://www.unodc.org/unodc/en/data-and-analysis/index.html
+16.1.4 Proportion of population that feel safe walking alone around the area they live after dark,UNODC,http://www.unodc.org/unodc/en/data-and-analysis/index.html
+16.2.1 Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,UNICEF,http://data.unicef.org
+"16.2.2 Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation",UNODC,http://https://www.unodc.org/unodc/en/data-and-analysis/index.html
+16.2.3 Proportion of young women and men aged 18‑29 years who experienced sexual violence by age 18,UNICEF,http://data.unicef.org
+"16.3.1 Proportion of victims of (a) physical, (b) psychological and/or (c) sexual violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms",UNODC,http://www.unodc.org/unodc/en/data-and-analysis/index.html
+16.3.2 Unsentenced detainees as a proportion of overall prison population,UNODC,http://www.unodc.org/unodc/en/data-and-analysis/index.html
+"16.3.3 Proportion of the population who have experienced a dispute in the past two years and who accessed a formal or informal dispute resolution mechanism, by type of mechanism",UNDP,http://www.undp.org
+16.4.1 Total value of inward and outward illicit financial flows (in current United States dollars),UNCTAD,http://unctad.org/statistics
+"16.4.2 Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments",UNODC,http://www.unodc.org/unodc/en/data-and-analysis/index.html
+"16.5.1 Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months",UNODC,http://www.unodc.org/unodc/en/data-and-analysis/index.html
+"16.5.2 Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months",World Bank,http://data.worldbank.org
+"16.6.1 Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)",World Bank,http://data.worldbank.org
+16.6.2 Proportion of population satisfied with their last experience of public services,UNDP,http://www.undp.org
+"16.7.1 Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups[for part (a)]",IPU,http://www.data.ipu.org
+"16.7.1 Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups[for part (b)]",UNDP,http://www.undp.org
+"16.7.1 Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups[for part (c)]",UNDP,http://www.undp.org
+"16.7.2 Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group",UNDP,http://www.undp.org
+16.8.1 Proportion of members and voting rights of developing countries in international organizations[10.6.1/16.8.1 are repeats],DESA-Financing for Sustainable Development Office,http://financing.desa.un.org/
+"16.9.1 Proportion of children under 5 years of age whose births have been registered with a civil authority, by age",UNICEF,http://data.unicef.org
+"16.10.1 Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months",UNESCO,http://www.unesco.org
+"16.10.1 Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months",OHCHR,http://www.ohchr.org/en/issues/indicators/pages/hrindicatorsindex.aspx
+"16.10.2 Number of countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information",UNESCO,http://www.unesco.org
+16.a.1 Existence of independent national human rights institutions in compliance with the Paris Principles,OHCHR,http://www.ohchr.org/en/issues/indicators/pages/hrindicatorsindex.aspx
+16.b.1 Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law[10.3.1/16.b.1 are repeats],OHCHR,http://www.ohchr.org/en/issues/indicators/pages/hrindicatorsindex.aspx
+"17.1.1 Total government revenue as a proportion of GDP, by source",IMF,http://data.imf.org
+17.1.2 Proportion of domestic budget funded by domestic taxes,IMF,http://data.imf.org
+"17.2.1 Net official development assistance, total and to least developed countries, as a proportion of the Organization for Economic Cooperation and Development (OECD) Development Assistance Committee donors’ gross national income (GNI)",OECD,http://www.oecd.org/dac/financing-sustainable-development/
+17.3.1 Additional financial resources mobilized for developing countries from multiple sources[information for ODA part of the indicator below],OECD,http://www.oecd.org/dac/financing-sustainable-development/
+17.3.2 Volume of remittances (in United States dollars) as a proportion of total GDP,World Bank,http://data.worldbank.org
+17.4.1 Debt service as a proportion of exports of goods and services,World Bank,http://data.worldbank.org
+"17.5.1 Number of countries that adopt and implement investment promotion regimes for developing countries, including the least developed countries",UNCTAD,http://unctad.org/statistics
+"17.6.1 Fixed broadband subscriptions per 100 inhabitants, by speed",ITU,http://www.itu.int/en/ITU-D/Statistics/Pages/default.aspx
+"17.7.1 Total amount of funding for developing countries to promote the development, transfer, dissemination and diffusion of environmentally sound technologies",UNEP,http://wesr.unep.org
+17.8.1 Proportion of individuals using the Internet,ITU,http://www.itu.int/en/ITU-D/Statistics/Pages/default.aspx
+"17.9.1 Dollar value of financial and technical assistance (including through North-South, South-South and triangular cooperation) committed to developing countries",OECD,http://www.oecd.org/dac/financing-sustainable-development/
+17.10.1 Worldwide weighted tariff-average,ITC,http://www.intracen.org
+17.11.1 Developing countries’ and least developed countries’ share of global exports,UNCTAD,http://unctad.org/en/Pages/statistics.aspx
+"17.12.1 Average tariffs faced by developing countries, least developed countries and small island developing States",ITC,http://www.intracen.org
+17.13.1 Macroeconomic Dashboard,World Bank,N/A
+17.14.1 Number of countries with mechanisms in place to enhance policy coherence of sustainable development,UNEP,http://wesr.unep.org
+17.15.1 Extent of use of country-owned results frameworks and planning tools by providers of development cooperation,OECD,http://effectivecooperation.org
+17.16.1 Number of countries reporting progress in multi-stakeholder development effectiveness monitoring frameworks that support the achievement of the sustainable development goals,OECD,http://effectivecooperation.org
+17.17.1 Amount in United States dollars committed to public-private partnerships for infrastructure,World Bank,http://data.worldbank.org
+17.18.1 Statistical capacity indicators,ODW,http://odin.opendatawatch.com
+17.18.2 Number of countries that have national statistical legislation that complies with the Fundamental Principles of Official Statistics,PARIS21,http://paris21.org/
+"17.18.3 Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding",PARIS21,http://paris21.org/
+17.19.1 Dollar value of all resources made available to strengthen statistical capacity in developing countries,PARIS21,http://paris21.org/
+17.19.2 Proportion of countries that (a) have conducted at least one population and housing census in the last 10 years; and (b) have achieved 100 per cent birth registration and 80 per cent death registration,DESA-UNSD,http://unstats.un.org/home/
