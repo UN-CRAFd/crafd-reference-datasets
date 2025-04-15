@@ -14,9 +14,14 @@ headers = {
 }
 response = requests.get(url, headers=headers)
 
-with open(data_folder / "input" / "un-system.html", "w", encoding="utf-8") as file:
+with open(data_folder / "input" / "un_system.html", "w", encoding="utf-8") as file:
     file.write(response.text)
 
-########################################################################################
+#############################################################
 
-df = pd.read_csv(data_folder / "output" / "un-system.csv")
+# TODO: add external processing here
+
+
+#############################################################
+
+df = pd.read_csv(data_folder / "output" / "un_system.csv")
