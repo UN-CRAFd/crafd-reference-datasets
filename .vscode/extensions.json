@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "ms-python.python",
+    "ms-toolsai.jupyter",
+    "posit.air-vscode",
+    "ms-toolsai.datawrangler",
+    "pkief.material-icon-theme",
+    "knisterpeter.vscode-commitizen"
+  ]
+}
