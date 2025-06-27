@@ -1,0 +1,38 @@
+# https://posit-dev.github.io/brand-yml/
+
+meta:
+  name: CRAF’d
+
+logo:
+  small: crafd_full_logo_black.svg
+  medium: crafd_full_logo_black.svg
+  large: crafd_full_logo_black.svg
+
+color:
+  palette:
+    black: "#000000"
+    white: "#FCFCFC"
+    crafd-yellow: "#f1b434"
+  foreground: black
+  background: white
+  primary: crafd-yellow
+  secondary: crafd-yellow
+
+
+  # large: 
+
+typography:
+  fonts:
+    - family: Roboto
+      source: google
+    - family: Roboto Mono
+      source: google
+
+  base: Roboto
+  headings:
+    family: Roboto
+    weight: bold
+    color: foreground
+  monospace: 
+    family: Roboto Mono
+    color: foreground

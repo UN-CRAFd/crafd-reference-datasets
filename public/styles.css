@@ -1,0 +1,10 @@
+
+/* make website title thicker */
+.navbar-brand {
+  font-weight: 600; /* options: normal, bold, 100–900 */
+}
+
+/* Make the logo larger */
+.navbar-logo {
+  max-height: 30px;
+}

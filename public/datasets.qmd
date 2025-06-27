@@ -1,0 +1,90 @@
+---
+title: All Datasets
+format: html
+last-modified: today
+---
+
+## Overview
+
+```{r setup}
+#| include: false
+library(tidyverse)
+library(knitr)
+
+GITHUB_BASE_URL <- "https://raw.githubusercontent.com/UN-CRAFd/crafd-reference-datasets/refs/heads/main/data/output/"
+```
+
+```{r collect-files}
+#| include: false
+data_path <- here::here("data", "output")
+files <- list.files(data_path, recursive = TRUE, full.names = TRUE)
+
+files_df <- tibble(
+  file_name = files |> fs::path_file(),
+  file_ext = files |> tools::file_ext(),
+  file_rel_path = files |> fs::path_rel(start = data_path),
+  file_github_url = paste0(GITHUB_BASE_URL, file_rel_path),
+  file_path = files,
+)
+
+# FIXME: add more files extensions as needed
+data_ext <- c("csv", "tsv", "rds", "json")
+
+files_df <- files_df |>
+  filter(file_ext %in% data_ext) |>
+  arrange(file_name)
+```
+
+```{r}
+#| results: asis
+#| echo: false
+
+for (i in seq_len(nrow(files_df))) {
+  child_src <- knit_expand(
+    text = c(
+      "#### `{{filename}}`",
+      "",
+      "```{verbatim}",
+      "{{url}}",
+      "```",
+      ""
+    ),
+    filename = files_df$file_name[i],
+    url = files_df$file_github_url[i]
+  )
+
+  # Knit the snippet as markdown, then cat the result verbatim
+  cat(knit_child(text = child_src, quiet = TRUE), sep = "\n")
+}
+```
+
+# How To Use The Datasets
+
+First, copy any of the URLs above for the respective dataset.
+
+### In R
+
+```{r}
+#| eval: false
+
+df <- readr::read_csv("PASTE_URL_HERE")
+```
+
+### In Python
+
+```{python}
+#| eval: false
+import pandas as pd
+
+df = pd.read_csv("PASTE_URL_HERE")
+```
+
+### In PowerBI
+
+Chose import option `Web`.
+
+<https://learn.microsoft.com/en-us/power-bi/connect-data/desktop-connect-to-web>
+
+### In Airtable
+
+Choose `CSV File` then `Link (URL)`.
