@@ -1,12 +1,7 @@
 #!/bin/bash
-set -e
 
-source .venv/bin/activate
-pip install -r requirements.txt
+uvx ruff check --select I --fix src/
+uvx ruff format src/
 
-black src/
-isort src/
-
-pip freeze > requirements.txt
-
-# Rscript -e "styler::style_dir()"
+air format R/
+rm -f ~/.Rhistory
