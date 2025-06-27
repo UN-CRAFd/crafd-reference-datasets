@@ -1,20 +1,41 @@
+// Workspace-specific settings
+
+
 {
-    "terminal.integrated.cwd": "${workspaceFolder}",
     "workbench.colorCustomizations": {
-        // "titleBar.activeBackground": "#000000",
-        "titleBar.activeForeground": "#FFFFFF"
+        "titleBar.activeBackground": "#F1B434", // CRAF’d Yellow
+        "titleBar.activeForeground": "#000000"
     },
 
+    "terminal.integrated.cwd": "${workspaceFolder}",
     "jupyter.notebookFileRoot": "${workspaceFolder}",
     "python.defaultInterpreterPath": "${workspaceFolder}/.venv",
-    "python.analysis.extraPaths": [
-        "src"
-    ],
     "python.envFile": "${workspaceFolder}/.env",
     "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.extraPaths": [ "src" ],
 
     "editor.wordWrap": "on",
     "editor.wordWrapColumn": 80,
     "editor.wrappingIndent": "indent",
     // "editor.renderWhitespace": "all",
+
+    "[r]": {
+        "editor.defaultFormatter": "posit.air-vscode"
+    },
+
+    // "[python]": {
+    //     "editor.defaultFormatter": "charliermarsh.vscode-ruff"
+    // },
+
+    // Hide from the Explorer
+    "files.exclude": {
+        "**/__pycache__": true,
+        ".Rproj.user": true,
+        "src/*.egg-info": true,
+        ".ruff_cache": true
+    },
+
+    "workbench.iconTheme": "material-icon-theme",
+    "jupyter.interactiveWindow.textEditor.executeSelection": true,
+    "interactiveWindow.executeWithShiftEnter": true,
 }

@@ -5,6 +5,14 @@
     "posit.air-vscode",
     "ms-toolsai.datawrangler",
     "pkief.material-icon-theme",
-    "knisterpeter.vscode-commitizen"
+    "knisterpeter.vscode-commitizen",
+    "quarto.quarto", // https://quarto.org/
+    "mechatroner.rainbow-csv",
+    "gruntfuggly.todo-tree",
+    "github.vscode-pull-request-github",
+    "github.remotehub",
+    "posit.air-vscode", // https://posit-dev.github.io/air/
+    "eamodio.gitlens", // https://www.gitkraken.com/gitlens
   ]
+
 }
