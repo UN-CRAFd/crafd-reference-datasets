@@ -1,8 +1,23 @@
 # crafd-reference-datasets
 
+## About
 
-## Acess Data
+🔗 https://un-crafd.github.io/crafd-reference-datasets/
 
-Example:
-https://raw.githubusercontent.com/UN-CRAFd/crafd-reference-datasets/refs/heads/main/data/output/un_system.csv
+## Setup
 
+First, install [`uv`](https://docs.astral.sh/uv/).
+
+Download here: https://docs.astral.sh/uv/getting-started/installation/
+
+Then, create a `.venv` with:
+
+```bash
+uv sync
+```
+
+You can add new packages like this:
+
+```bash
+uv add <package_name>
+```

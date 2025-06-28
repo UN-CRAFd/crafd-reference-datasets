@@ -15,3 +15,29 @@
 **Data collection Information & Focal points**
 - https://unstats.un.org/sdgs/dataContacts/
 - https://unstats.un.org/sdgs/dataCalendar/Data%20collection%20calendars%20as%20of%202025.02.04.zip
+
+
+## Scripts & Datasets
+
+### INFORM Risk
+
+### HDX Organizations
+
+
+### UN MPTFO Data
+
+### UN System
+
+
+### SDG Indicator Custodian Agencies
+
+
+### ReliefWeb API Data
+
+- Organizations List
+
+
+### Standard country or area codes for statistical use (M49)
+
+- https://unstats.un.org/unsd/methodology/m49/
+
