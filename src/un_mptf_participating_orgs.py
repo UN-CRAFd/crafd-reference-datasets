@@ -36,3 +36,7 @@ df = pd.DataFrame(data)
 data_folder = Path("data")
 output_path = data_folder / "output" / "mptf_participating_orgs.csv"
 df.to_csv(output_path, index=False)
+
+# --------------------------------------------------------
+
+org_names = df[["ORGANIZATION", "implementing_agent_group_description"]]
