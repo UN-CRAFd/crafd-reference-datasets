@@ -4,7 +4,7 @@ format: html
 last-modified: today
 ---
 
-## Overview
+
 
 ```{r setup}
 #| include: false
@@ -39,6 +39,8 @@ files_df <- files_df |>
 #| results: asis
 #| echo: false
 #| warning: false
+
+cat(glue::glue("## Overview ({nrow(files_df)})"))
 
 for (i in seq_len(nrow(files_df))) {
   file_path <- files_df$file_path[i]
