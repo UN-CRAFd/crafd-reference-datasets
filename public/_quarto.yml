@@ -26,7 +26,10 @@ website:
 
 format:
   html:
-    brand: _brand.yml
+    # brand: _brand.yml
+    theme:
+      - brand
+      - styles.scss
     toc: true
     toc-location: left
     css: styles.css

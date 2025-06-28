@@ -38,22 +38,55 @@ files_df <- files_df |>
 ```{r}
 #| results: asis
 #| echo: false
+#| warning: false
 
 for (i in seq_len(nrow(files_df))) {
+  file_path <- files_df$file_path[i]
+  file_ext <- files_df$file_ext[i]
+  
+  # Get glimpse of the dataset
+  glimpse_output <- tryCatch({
+    if (file_ext == "csv") {
+      suppressWarnings({
+        data <- readr::read_csv(file_path, show_col_types = FALSE)
+        capture.output(glimpse(data))
+      })
+    } else if (file_ext == "tsv") {
+      suppressWarnings({
+        data <- readr::read_tsv(file_path, show_col_types = FALSE)
+        capture.output(glimpse(data))
+      })
+    } else {
+      "Preview not available for this file type"
+    }
+  }, error = function(e) {
+    paste("Error reading file:", e$message)
+  })
+  
   child_src <- knit_expand(
     text = c(
-      "#### `{{filename}}`",
+      "### `{{filename}}`",
       "",
       "```{verbatim}",
       "{{url}}",
       "```",
+      "",
+      "::: {.callout-note collapse=\"true\"}",
+      "",
+      "## Data Structure",
+      "",
+      "```",
+      "{{glimpse_output}}",
+      "```",
+      "",
+      ":::",
       ""
     ),
     filename = files_df$file_name[i],
-    url = files_df$file_github_url[i]
+    url = files_df$file_github_url[i],
+    glimpse_output = paste(glimpse_output, collapse = "\n")
   )
 
-  # Knit the snippet as markdown, then cat the result verbatim
   cat(knit_child(text = child_src, quiet = TRUE), sep = "\n")
 }
 ```
