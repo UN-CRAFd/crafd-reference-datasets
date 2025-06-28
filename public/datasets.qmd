@@ -35,7 +35,7 @@ files_df <- files_df |>
   arrange(file_name)
 ```
 
-```{r}
+```{r print-datasets}
 #| results: asis
 #| echo: false
 #| warning: false
@@ -99,7 +99,7 @@ First, copy any of the URLs above for the respective dataset.
 
 ### In R
 
-```{r}
+```{r r-example}
 #| eval: false
 
 df <- readr::read_csv("PASTE_URL_HERE")
@@ -107,7 +107,7 @@ df <- readr::read_csv("PASTE_URL_HERE")
 
 ### In Python
 
-```{python}
+```{python python-example}
 #| eval: false
 import pandas as pd
 
