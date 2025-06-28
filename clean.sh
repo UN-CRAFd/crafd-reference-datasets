@@ -3,5 +3,5 @@
 uvx ruff check --select I --fix src/
 uvx ruff format src/
 
-air format R/
+air format .
 rm -f ~/.Rhistory
