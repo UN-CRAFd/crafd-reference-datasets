@@ -67,6 +67,8 @@ for (i in seq_len(nrow(files_df))) {
     text = c(
       "### `{{filename}}`",
       "",
+      "[View]({{url}})",
+      "",
       "```{verbatim}",
       "{{url}}",
       "```",
