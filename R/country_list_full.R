@@ -1,8 +1,3 @@
-library(tidyverse)
-
-
-# -------------------------------------------------------------------------
-
 ## Standard country or area codes for statistical use (M49) ##
 
 # This is the online version of the United Nations publication
@@ -36,6 +31,8 @@ library(tidyverse)
 # drawn as to obtain greater homogeneity in sizes of population,
 # demographic circumstances and accuracy of demographic statistics.
 
+library(tidyverse)
+
 # Read --------------------------------------------------------------------
 
 unds_raw <- read_delim("data/external/UNSD — Methodology.csv", delim = ";")
@@ -43,7 +40,7 @@ unds_raw <- read_delim("data/external/UNSD — Methodology.csv", delim = ";")
 unds <- unds_raw |> janitor::clean_names()
 unds <- unds |>
   select(
-    country_UN = country_or_area,
+    country = country_or_area,
     everything(),
     -global_code,
     -global_name
@@ -311,7 +308,7 @@ unds <- unds |>
 # Download: https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups
 
 world_bank_raw <- readxl::read_excel(
-  "data/external/World_Bank_CLASS_2024.xlsx",
+  here::here("data", "external", "WorldBank_CLASS_2025_07_02.xlsx"),
   sheet = "List of economies"
 )
 world_bank <- world_bank_raw |> janitor::clean_names()
@@ -346,6 +343,31 @@ regional_groups <- regional_groups |>
 
 
 unds <- unds |> left_join(regional_groups, by = "iso_alpha3_code")
+
+
+# OECD States of Fragility ------------------------------------------------
+
+raw_oecd_fragility <- readxl::read_xlsx(
+  here::here("data", "external", "OECD_States of Fragility_2025.xlsx"),
+  sheet = "Economic Fragility",
+  skip = 2
+)
+
+fragile_countries <- tibble(country = colnames(raw_oecd_fragility[-1]))
+
+oecd_fragility <- fragile_countries |>
+  as_tibble() |>
+  mutate(
+    iso_alpha3_code = countrycode::countrycode(
+      country,
+      "country.name",
+      "iso3c"
+    ),
+    oecd_fragile_state = TRUE
+  ) |>
+  select(-country)
+
+unds <- unds |> left_join(oecd_fragility, by = "iso_alpha3_code")
 
 
 # Export ------------------------------------------------------------------
