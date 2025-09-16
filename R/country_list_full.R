@@ -338,7 +338,8 @@ regional_groups <- regional_groups |>
   ) |>
   rename(
     UN_regional_group = regional_group
-  ) |> select(-country)
+  ) |>
+  select(-country)
 
 
 unds <- unds |> left_join(regional_groups, by = "iso_alpha3_code")
@@ -362,11 +363,81 @@ oecd_fragility <- fragile_countries |>
       "country.name",
       "iso3c"
     ),
-    oecd_fragile_state = TRUE
+    oecd_is_fragile = TRUE
   ) |>
   select(-country)
 
-unds <- unds |> left_join(oecd_fragility, by = "iso_alpha3_code")
+unds <- unds |> left_join(oecd_fragility, by = "iso_alpha3_code") |> 
+  mutate(oecd_is_fragile = oecd_is_fragile |> replace_na(FALSE))
+
+# World Bank FY26 List of Fragile and Conflict-affected Situations --------
+
+wb_conflict_countries <-
+  tibble(
+    country = c(
+      "Afghanistan",
+      "Burkina Faso",
+      "Cameroon",
+      "Central African Republic",
+      "Congo, Democratic Republic of",
+      "Ethiopia",
+      "Haiti",
+      "Iraq",
+      "Lebanon",
+      "Mali",
+      "Mozambique",
+      "Myanmar",
+      "Niger",
+      "Nigeria",
+      "Somalia",
+      "South Sudan",
+      "Sudan",
+      "Syrian Arab Republic",
+      "Ukraine",
+      "West Bank and Gaza (territory)",
+      "Yemen, Republic of"
+    ),
+    worldbank_fragility = "Conflict"
+  )
+
+wb_fragile_countries <-
+  tibble(
+    country = c(
+      "Burundi",
+      "Chad",
+      "Comoros",
+      "Congo, Republic of",
+      "Eritrea",
+      "Guinea-Bissau",
+      "Kiribati",
+      "Libya",
+      "Marshall Islands",
+      "Micronesia, Federated States of",
+      "Papua New Guinea",
+      "São Tomé and Príncipe",
+      "Solomon Islands",
+      "Timor-Leste",
+      "Tuvalu",
+      "Venezuela, RB",
+      "Zimbabwe"
+    ),
+    worldbank_fragility = "Institutional and Social Fragility"
+  )
+
+worldbank_fragility <- bind_rows(wb_conflict_countries, wb_fragile_countries) |>
+  mutate(worldbank_is_fragile = TRUE) |> 
+  mutate(
+    iso_alpha3_code = countrycode::countrycode(
+      country,
+      "country.name",
+      "iso3c"
+    ),
+  ) |> select(-country)
+
+
+unds <- unds |> 
+  left_join(worldbank_fragility, by = "iso_alpha3_code") |> 
+  mutate(worldbank_is_fragile = worldbank_is_fragile |> replace_na(FALSE))
 
 
 # Export ------------------------------------------------------------------

@@ -1,249 +1,249 @@
-country,region_code,region_name,sub_region_code,sub_region_name,intermediate_region_code,intermediate_region_name,m49_code,iso_alpha2_code,iso_alpha3_code,is_LDC,is_LLDC,is_SIDS,is_G77,is_EU,is_G20,is_AU,is_P5,is_UN_member,is_OECD,world_bank_income_group,world_bank_lending_category,UN_regional_group,oecd_fragile_state
-Algeria,002,Africa,015,Northern Africa,NA,NA,012,DZ,DZA,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Upper middle income,IBRD,African States,NA
-Egypt,002,Africa,015,Northern Africa,NA,NA,818,EG,EGY,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,IBRD,African States,NA
-Libya,002,Africa,015,Northern Africa,NA,NA,434,LY,LBY,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Upper middle income,IBRD,African States,TRUE
-Morocco,002,Africa,015,Northern Africa,NA,NA,504,MA,MAR,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,IBRD,African States,NA
-Sudan,002,Africa,015,Northern Africa,NA,NA,729,SD,SDN,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE
-Tunisia,002,Africa,015,Northern Africa,NA,NA,788,TN,TUN,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,IBRD,African States,NA
-Western Sahara,002,Africa,015,Northern Africa,NA,NA,732,EH,ESH,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,NA,NA,NA,NA
-British Indian Ocean Territory,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,086,IO,IOT,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,NA
-Burundi,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,108,BI,BDI,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE
-Comoros,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,174,KM,COM,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,IDA,African States,TRUE
-Djibouti,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,262,DJ,DJI,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,IDA,African States,TRUE
-Eritrea,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,232,ER,ERI,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE
-Ethiopia,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,231,ET,ETH,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,NA,IDA,African States,TRUE
-French Southern Territories,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,260,TF,ATF,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,NA
-Kenya,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,404,KE,KEN,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,Blend,African States,TRUE
-Madagascar,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,450,MG,MDG,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE
-Malawi,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,454,MW,MWI,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE
-Mauritius,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,480,MU,MUS,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Upper middle income,IBRD,African States,NA
-Mayotte,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,175,YT,MYT,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,NA
-Mozambique,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,508,MZ,MOZ,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE
-Réunion,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,638,RE,REU,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,NA
-Rwanda,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,646,RW,RWA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE
-Seychelles,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,690,SC,SYC,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,High income,IBRD,African States,NA
-Somalia,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,706,SO,SOM,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE
-South Sudan,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,728,SS,SSD,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE
-Uganda,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,800,UG,UGA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE
-United Republic of Tanzania,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,834,TZ,TZA,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,IDA,African States,TRUE
-Zambia,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,894,ZM,ZMB,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,IDA,African States,TRUE
-Zimbabwe,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,716,ZW,ZWE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,Blend,African States,TRUE
-Angola,002,Africa,202,Sub-Saharan Africa,017,Middle Africa,024,AO,AGO,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,IBRD,African States,TRUE
-Cameroon,002,Africa,202,Sub-Saharan Africa,017,Middle Africa,120,CM,CMR,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,Blend,African States,TRUE
-Central African Republic,002,Africa,202,Sub-Saharan Africa,017,Middle Africa,140,CF,CAF,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE
-Chad,002,Africa,202,Sub-Saharan Africa,017,Middle Africa,148,TD,TCD,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE
-Congo,002,Africa,202,Sub-Saharan Africa,017,Middle Africa,178,CG,COG,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,Blend,African States,TRUE
-Democratic Republic of the Congo,002,Africa,202,Sub-Saharan Africa,017,Middle Africa,180,CD,COD,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE
-Equatorial Guinea,002,Africa,202,Sub-Saharan Africa,017,Middle Africa,226,GQ,GNQ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Upper middle income,IBRD,African States,TRUE
-Gabon,002,Africa,202,Sub-Saharan Africa,017,Middle Africa,266,GA,GAB,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Upper middle income,IBRD,African States,TRUE
-Sao Tome and Principe,002,Africa,202,Sub-Saharan Africa,017,Middle Africa,678,ST,STP,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,IDA,African States,NA
-Botswana,002,Africa,202,Sub-Saharan Africa,018,Southern Africa,072,BW,BWA,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Upper middle income,IBRD,African States,NA
-Eswatini,002,Africa,202,Sub-Saharan Africa,018,Southern Africa,748,SZ,SWZ,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,Blend,African States,TRUE
-Lesotho,002,Africa,202,Sub-Saharan Africa,018,Southern Africa,426,LS,LSO,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,IDA,African States,NA
-Namibia,002,Africa,202,Sub-Saharan Africa,018,Southern Africa,516,NA,NAM,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,IBRD,African States,NA
-South Africa,002,Africa,202,Sub-Saharan Africa,018,Southern Africa,710,ZA,ZAF,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,Upper middle income,IBRD,African States,NA
-Benin,002,Africa,202,Sub-Saharan Africa,011,Western Africa,204,BJ,BEN,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,IDA,African States,NA
-Burkina Faso,002,Africa,202,Sub-Saharan Africa,011,Western Africa,854,BF,BFA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE
-Cabo Verde,002,Africa,202,Sub-Saharan Africa,011,Western Africa,132,CV,CPV,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Upper middle income,Blend,African States,NA
-Côte d’Ivoire,002,Africa,202,Sub-Saharan Africa,011,Western Africa,384,CI,CIV,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,Blend,African States,TRUE
-Gambia,002,Africa,202,Sub-Saharan Africa,011,Western Africa,270,GM,GMB,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE
-Ghana,002,Africa,202,Sub-Saharan Africa,011,Western Africa,288,GH,GHA,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,IDA,African States,NA
-Guinea,002,Africa,202,Sub-Saharan Africa,011,Western Africa,324,GN,GIN,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,IDA,African States,TRUE
-Guinea-Bissau,002,Africa,202,Sub-Saharan Africa,011,Western Africa,624,GW,GNB,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE
-Liberia,002,Africa,202,Sub-Saharan Africa,011,Western Africa,430,LR,LBR,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE
-Mali,002,Africa,202,Sub-Saharan Africa,011,Western Africa,466,ML,MLI,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE
-Mauritania,002,Africa,202,Sub-Saharan Africa,011,Western Africa,478,MR,MRT,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,IDA,African States,TRUE
-Niger,002,Africa,202,Sub-Saharan Africa,011,Western Africa,562,NE,NER,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE
-Nigeria,002,Africa,202,Sub-Saharan Africa,011,Western Africa,566,NG,NGA,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,Blend,African States,TRUE
-Saint Helena,002,Africa,202,Sub-Saharan Africa,011,Western Africa,654,SH,SHN,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,NA
-Senegal,002,Africa,202,Sub-Saharan Africa,011,Western Africa,686,SN,SEN,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,IDA,African States,NA
-Sierra Leone,002,Africa,202,Sub-Saharan Africa,011,Western Africa,694,SL,SLE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE
-Togo,002,Africa,202,Sub-Saharan Africa,011,Western Africa,768,TG,TGO,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE
-Anguilla,019,Americas,419,Latin America and the Caribbean,029,Caribbean,660,AI,AIA,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,NA
-Antigua and Barbuda,019,Americas,419,Latin America and the Caribbean,029,Caribbean,028,AG,ATG,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,IBRD,Latin American and Caribbean States,NA
-Aruba,019,Americas,419,Latin America and the Caribbean,029,Caribbean,533,AW,ABW,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,NA
-Bahamas,019,Americas,419,Latin America and the Caribbean,029,Caribbean,044,BS,BHS,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,NA,Latin American and Caribbean States,NA
-Barbados,019,Americas,419,Latin America and the Caribbean,029,Caribbean,052,BB,BRB,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,IBRD,Latin American and Caribbean States,NA
-"Bonaire, Sint Eustatius and Saba",019,Americas,419,Latin America and the Caribbean,029,Caribbean,535,BQ,BES,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,NA
-British Virgin Islands,019,Americas,419,Latin America and the Caribbean,029,Caribbean,092,VG,VGB,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,NA
-Cayman Islands,019,Americas,419,Latin America and the Caribbean,029,Caribbean,136,KY,CYM,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,NA
-Cuba,019,Americas,419,Latin America and the Caribbean,029,Caribbean,192,CU,CUB,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,NA,Latin American and Caribbean States,NA
-Curaçao,019,Americas,419,Latin America and the Caribbean,029,Caribbean,531,CW,CUW,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,NA
-Dominica,019,Americas,419,Latin America and the Caribbean,029,Caribbean,212,DM,DMA,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,Blend,Latin American and Caribbean States,NA
-Dominican Republic,019,Americas,419,Latin America and the Caribbean,029,Caribbean,214,DO,DOM,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Latin American and Caribbean States,NA
-Grenada,019,Americas,419,Latin America and the Caribbean,029,Caribbean,308,GD,GRD,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,Blend,Latin American and Caribbean States,NA
-Guadeloupe,019,Americas,419,Latin America and the Caribbean,029,Caribbean,312,GP,GLP,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,NA
-Haiti,019,Americas,419,Latin America and the Caribbean,029,Caribbean,332,HT,HTI,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IDA,Latin American and Caribbean States,TRUE
-Jamaica,019,Americas,419,Latin America and the Caribbean,029,Caribbean,388,JM,JAM,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Latin American and Caribbean States,NA
-Martinique,019,Americas,419,Latin America and the Caribbean,029,Caribbean,474,MQ,MTQ,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,NA
-Montserrat,019,Americas,419,Latin America and the Caribbean,029,Caribbean,500,MS,MSR,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,NA
-Puerto Rico,019,Americas,419,Latin America and the Caribbean,029,Caribbean,630,PR,PRI,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,NA
-Saint Barthélemy,019,Americas,419,Latin America and the Caribbean,029,Caribbean,652,BL,BLM,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,NA
-Saint Kitts and Nevis,019,Americas,419,Latin America and the Caribbean,029,Caribbean,659,KN,KNA,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,IBRD,Latin American and Caribbean States,NA
-Saint Lucia,019,Americas,419,Latin America and the Caribbean,029,Caribbean,662,LC,LCA,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,Blend,Latin American and Caribbean States,NA
-Saint Martin (French Part),019,Americas,419,Latin America and the Caribbean,029,Caribbean,663,MF,MAF,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,NA
-Saint Vincent and the Grenadines,019,Americas,419,Latin America and the Caribbean,029,Caribbean,670,VC,VCT,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,Blend,Latin American and Caribbean States,NA
-Sint Maarten (Dutch part),019,Americas,419,Latin America and the Caribbean,029,Caribbean,534,SX,SXM,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,NA
-Trinidad and Tobago,019,Americas,419,Latin America and the Caribbean,029,Caribbean,780,TT,TTO,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,IBRD,Latin American and Caribbean States,NA
-Turks and Caicos Islands,019,Americas,419,Latin America and the Caribbean,029,Caribbean,796,TC,TCA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,NA
-United States Virgin Islands,019,Americas,419,Latin America and the Caribbean,029,Caribbean,850,VI,VIR,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,NA
-Belize,019,Americas,419,Latin America and the Caribbean,013,Central America,084,BZ,BLZ,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,Blend,Latin American and Caribbean States,NA
-Costa Rica,019,Americas,419,Latin America and the Caribbean,013,Central America,188,CR,CRI,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,IBRD,Latin American and Caribbean States,NA
-El Salvador,019,Americas,419,Latin America and the Caribbean,013,Central America,222,SV,SLV,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Latin American and Caribbean States,NA
-Guatemala,019,Americas,419,Latin America and the Caribbean,013,Central America,320,GT,GTM,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Latin American and Caribbean States,TRUE
-Honduras,019,Americas,419,Latin America and the Caribbean,013,Central America,340,HN,HND,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IDA,Latin American and Caribbean States,NA
-Mexico,019,Americas,419,Latin America and the Caribbean,013,Central America,484,MX,MEX,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,Upper middle income,IBRD,Latin American and Caribbean States,NA
-Nicaragua,019,Americas,419,Latin America and the Caribbean,013,Central America,558,NI,NIC,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IDA,Latin American and Caribbean States,TRUE
-Panama,019,Americas,419,Latin America and the Caribbean,013,Central America,591,PA,PAN,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,IBRD,Latin American and Caribbean States,NA
-Argentina,019,Americas,419,Latin America and the Caribbean,005,South America,032,AR,ARG,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Latin American and Caribbean States,NA
-Bolivia (Plurinational State of),019,Americas,419,Latin America and the Caribbean,005,South America,068,BO,BOL,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IBRD,Latin American and Caribbean States,NA
-Bouvet Island,019,Americas,419,Latin America and the Caribbean,005,South America,074,BV,BVT,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,NA
-Brazil,019,Americas,419,Latin America and the Caribbean,005,South America,076,BR,BRA,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Latin American and Caribbean States,NA
-Chile,019,Americas,419,Latin America and the Caribbean,005,South America,152,CL,CHL,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,IBRD,Latin American and Caribbean States,NA
-Colombia,019,Americas,419,Latin America and the Caribbean,005,South America,170,CO,COL,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Upper middle income,IBRD,Latin American and Caribbean States,NA
-Ecuador,019,Americas,419,Latin America and the Caribbean,005,South America,218,EC,ECU,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Latin American and Caribbean States,NA
-Falkland Islands (Malvinas),019,Americas,419,Latin America and the Caribbean,005,South America,238,FK,FLK,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,NA
-French Guiana,019,Americas,419,Latin America and the Caribbean,005,South America,254,GF,GUF,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,NA
-Guyana,019,Americas,419,Latin America and the Caribbean,005,South America,328,GY,GUY,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,IDA,Latin American and Caribbean States,NA
-Paraguay,019,Americas,419,Latin America and the Caribbean,005,South America,600,PY,PRY,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Latin American and Caribbean States,NA
-Peru,019,Americas,419,Latin America and the Caribbean,005,South America,604,PE,PER,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Latin American and Caribbean States,NA
-South Georgia and the South Sandwich Islands,019,Americas,419,Latin America and the Caribbean,005,South America,239,GS,SGS,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,NA
-Suriname,019,Americas,419,Latin America and the Caribbean,005,South America,740,SR,SUR,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,Blend,Latin American and Caribbean States,NA
-Uruguay,019,Americas,419,Latin America and the Caribbean,005,South America,858,UY,URY,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,IBRD,Latin American and Caribbean States,NA
-Venezuela (Bolivarian Republic of),019,Americas,419,Latin America and the Caribbean,005,South America,862,VE,VEN,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,NA,IBRD,Latin American and Caribbean States,TRUE
-Bermuda,019,Americas,021,Northern America,NA,NA,060,BM,BMU,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,NA
-Canada,019,Americas,021,Northern America,NA,NA,124,CA,CAN,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,High income,NA,Western European and other States,NA
-Greenland,019,Americas,021,Northern America,NA,NA,304,GL,GRL,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,NA
-Saint Pierre and Miquelon,019,Americas,021,Northern America,NA,NA,666,PM,SPM,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,NA
-United States of America,019,Americas,021,Northern America,NA,NA,840,US,USA,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,High income,NA,Western European and other States,NA
-Antarctica,NA,NA,NA,NA,NA,NA,010,AQ,ATA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,NA
-Kazakhstan,142,Asia,143,Central Asia,NA,NA,398,KZ,KAZ,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Asia-Pacific States,NA
-Kyrgyzstan,142,Asia,143,Central Asia,NA,NA,417,KG,KGZ,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IDA,Asia-Pacific States,NA
-Tajikistan,142,Asia,143,Central Asia,NA,NA,762,TJ,TJK,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IDA,Asia-Pacific States,TRUE
-Turkmenistan,142,Asia,143,Central Asia,NA,NA,795,TM,TKM,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Asia-Pacific States,TRUE
-Uzbekistan,142,Asia,143,Central Asia,NA,NA,860,UZ,UZB,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,Blend,Asia-Pacific States,NA
-China,142,Asia,030,Eastern Asia,NA,NA,156,CN,CHN,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,Upper middle income,IBRD,Asia-Pacific States,NA
-"China, Hong Kong Special Administrative Region",142,Asia,030,Eastern Asia,NA,NA,344,HK,HKG,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,NA
-"China, Macao Special Administrative Region",142,Asia,030,Eastern Asia,NA,NA,446,MO,MAC,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,NA
-Democratic People's Republic of Korea,142,Asia,030,Eastern Asia,NA,NA,408,KP,PRK,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Low income,NA,Asia-Pacific States,TRUE
-Japan,142,Asia,030,Eastern Asia,NA,NA,392,JP,JPN,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,High income,NA,Asia-Pacific States,NA
-Mongolia,142,Asia,030,Eastern Asia,NA,NA,496,MN,MNG,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Asia-Pacific States,NA
-Republic of Korea,142,Asia,030,Eastern Asia,NA,NA,410,KR,KOR,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,High income,NA,Asia-Pacific States,NA
-Brunei Darussalam,142,Asia,035,South-eastern Asia,NA,NA,096,BN,BRN,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,NA,Asia-Pacific States,NA
-Cambodia,142,Asia,035,South-eastern Asia,NA,NA,116,KH,KHM,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IDA,Asia-Pacific States,TRUE
-Indonesia,142,Asia,035,South-eastern Asia,NA,NA,360,ID,IDN,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Asia-Pacific States,NA
-Lao People's Democratic Republic,142,Asia,035,South-eastern Asia,NA,NA,418,LA,LAO,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IDA,Asia-Pacific States,TRUE
-Malaysia,142,Asia,035,South-eastern Asia,NA,NA,458,MY,MYS,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Asia-Pacific States,NA
-Myanmar,142,Asia,035,South-eastern Asia,NA,NA,104,MM,MMR,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IDA,Asia-Pacific States,TRUE
-Philippines,142,Asia,035,South-eastern Asia,NA,NA,608,PH,PHL,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IBRD,Asia-Pacific States,NA
-Singapore,142,Asia,035,South-eastern Asia,NA,NA,702,SG,SGP,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,NA,Asia-Pacific States,NA
-Thailand,142,Asia,035,South-eastern Asia,NA,NA,764,TH,THA,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Asia-Pacific States,NA
-Timor-Leste,142,Asia,035,South-eastern Asia,NA,NA,626,TL,TLS,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,Blend,Asia-Pacific States,TRUE
-Viet Nam,142,Asia,035,South-eastern Asia,NA,NA,704,VN,VNM,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IBRD,Asia-Pacific States,NA
-Afghanistan,142,Asia,034,Southern Asia,NA,NA,004,AF,AFG,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Low income,IDA,Asia-Pacific States,TRUE
-Bangladesh,142,Asia,034,Southern Asia,NA,NA,050,BD,BGD,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IDA,Asia-Pacific States,TRUE
-Bhutan,142,Asia,034,Southern Asia,NA,NA,064,BT,BTN,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IDA,Asia-Pacific States,NA
-India,142,Asia,034,Southern Asia,NA,NA,356,IN,IND,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IBRD,Asia-Pacific States,NA
-Iran (Islamic Republic of),142,Asia,034,Southern Asia,NA,NA,364,IR,IRN,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Asia-Pacific States,TRUE
-Maldives,142,Asia,034,Southern Asia,NA,NA,462,MV,MDV,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IDA,Asia-Pacific States,NA
-Nepal,142,Asia,034,Southern Asia,NA,NA,524,NP,NPL,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IDA,Asia-Pacific States,NA
-Pakistan,142,Asia,034,Southern Asia,NA,NA,586,PK,PAK,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,Blend,Asia-Pacific States,TRUE
-Sri Lanka,142,Asia,034,Southern Asia,NA,NA,144,LK,LKA,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IDA,Asia-Pacific States,NA
-Armenia,142,Asia,145,Western Asia,NA,NA,051,AM,ARM,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Eastern European States,NA
-Azerbaijan,142,Asia,145,Western Asia,NA,NA,031,AZ,AZE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Eastern European States,NA
-Bahrain,142,Asia,145,Western Asia,NA,NA,048,BH,BHR,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,NA,Asia-Pacific States,NA
-Cyprus,142,Asia,145,Western Asia,NA,NA,196,CY,CYP,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,NA,Asia-Pacific States,NA
-Georgia,142,Asia,145,Western Asia,NA,NA,268,GE,GEO,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Eastern European States,NA
-Iraq,142,Asia,145,Western Asia,NA,NA,368,IQ,IRQ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Asia-Pacific States,TRUE
-Israel,142,Asia,145,Western Asia,NA,NA,376,IL,ISR,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Western European and other States,NA
-Jordan,142,Asia,145,Western Asia,NA,NA,400,JO,JOR,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IBRD,Asia-Pacific States,NA
-Kuwait,142,Asia,145,Western Asia,NA,NA,414,KW,KWT,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,NA,Asia-Pacific States,NA
-Lebanon,142,Asia,145,Western Asia,NA,NA,422,LB,LBN,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IBRD,Asia-Pacific States,TRUE
-Oman,142,Asia,145,Western Asia,NA,NA,512,OM,OMN,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,NA,Asia-Pacific States,NA
-Qatar,142,Asia,145,Western Asia,NA,NA,634,QA,QAT,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,NA,Asia-Pacific States,NA
-Saudi Arabia,142,Asia,145,Western Asia,NA,NA,682,SA,SAU,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,High income,NA,Asia-Pacific States,NA
-State of Palestine,142,Asia,145,Western Asia,NA,NA,275,PS,PSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Lower middle income,NA,NA,TRUE
-Syrian Arab Republic,142,Asia,145,Western Asia,NA,NA,760,SY,SYR,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Low income,IDA,Asia-Pacific States,TRUE
-Türkiye,142,Asia,145,Western Asia,NA,NA,792,TR,TUR,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,Upper middle income,IBRD,Western European and other States,NA
-United Arab Emirates,142,Asia,145,Western Asia,NA,NA,784,AE,ARE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,NA,Asia-Pacific States,NA
-Yemen,142,Asia,145,Western Asia,NA,NA,887,YE,YEM,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Low income,IDA,Asia-Pacific States,TRUE
-Belarus,150,Europe,151,Eastern Europe,NA,NA,112,BY,BLR,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Eastern European States,NA
-Bulgaria,150,Europe,151,Eastern Europe,NA,NA,100,BG,BGR,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,IBRD,Eastern European States,NA
-Czechia,150,Europe,151,Eastern Europe,NA,NA,203,CZ,CZE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Eastern European States,NA
-Hungary,150,Europe,151,Eastern Europe,NA,NA,348,HU,HUN,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Eastern European States,NA
-Poland,150,Europe,151,Eastern Europe,NA,NA,616,PL,POL,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,IBRD,Eastern European States,NA
-Republic of Moldova,150,Europe,151,Eastern Europe,NA,NA,498,MD,MDA,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Eastern European States,NA
-Romania,150,Europe,151,Eastern Europe,NA,NA,642,RO,ROU,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,IBRD,Eastern European States,NA
-Russian Federation,150,Europe,151,Eastern Europe,NA,NA,643,RU,RUS,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,High income,IBRD,Eastern European States,NA
-Slovakia,150,Europe,151,Eastern Europe,NA,NA,703,SK,SVK,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Eastern European States,NA
-Ukraine,150,Europe,151,Eastern Europe,NA,NA,804,UA,UKR,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Eastern European States,NA
-Åland Islands,150,Europe,154,Northern Europe,NA,NA,248,AX,ALA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,NA
-Denmark,150,Europe,154,Northern Europe,NA,NA,208,DK,DNK,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Western European and other States,NA
-Estonia,150,Europe,154,Northern Europe,NA,NA,233,EE,EST,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Eastern European States,NA
-Faroe Islands,150,Europe,154,Northern Europe,NA,NA,234,FO,FRO,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,NA
-Finland,150,Europe,154,Northern Europe,NA,NA,246,FI,FIN,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Western European and other States,NA
-Guernsey,150,Europe,154,Northern Europe,NA,NA,831,GG,GGY,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,NA
-Iceland,150,Europe,154,Northern Europe,NA,NA,352,IS,ISL,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Western European and other States,NA
-Ireland,150,Europe,154,Northern Europe,NA,NA,372,IE,IRL,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Western European and other States,NA
-Isle of Man,150,Europe,154,Northern Europe,NA,NA,833,IM,IMN,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,NA
-Jersey,150,Europe,154,Northern Europe,NA,NA,832,JE,JEY,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,NA
-Latvia,150,Europe,154,Northern Europe,NA,NA,428,LV,LVA,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Eastern European States,NA
-Lithuania,150,Europe,154,Northern Europe,NA,NA,440,LT,LTU,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Eastern European States,NA
-Norway,150,Europe,154,Northern Europe,NA,NA,578,NO,NOR,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Western European and other States,NA
-Svalbard and Jan Mayen Islands,150,Europe,154,Northern Europe,NA,NA,744,SJ,SJM,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,NA
-Sweden,150,Europe,154,Northern Europe,NA,NA,752,SE,SWE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Western European and other States,NA
-United Kingdom of Great Britain and Northern Ireland,150,Europe,154,Northern Europe,NA,NA,826,GB,GBR,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,High income,NA,Western European and other States,NA
-Albania,150,Europe,039,Southern Europe,NA,NA,008,AL,ALB,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Eastern European States,NA
-Andorra,150,Europe,039,Southern Europe,NA,NA,020,AD,AND,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,NA,Western European and other States,NA
-Bosnia and Herzegovina,150,Europe,039,Southern Europe,NA,NA,070,BA,BIH,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Eastern European States,NA
-Croatia,150,Europe,039,Southern Europe,NA,NA,191,HR,HRV,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,IBRD,Eastern European States,NA
-Gibraltar,150,Europe,039,Southern Europe,NA,NA,292,GI,GIB,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,NA
-Greece,150,Europe,039,Southern Europe,NA,NA,300,GR,GRC,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Western European and other States,NA
-Holy See,150,Europe,039,Southern Europe,NA,NA,336,VA,VAT,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,NA
-Italy,150,Europe,039,Southern Europe,NA,NA,380,IT,ITA,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,High income,NA,Western European and other States,NA
-Malta,150,Europe,039,Southern Europe,NA,NA,470,MT,MLT,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,NA,Western European and other States,NA
-Montenegro,150,Europe,039,Southern Europe,NA,NA,499,ME,MNE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Eastern European States,NA
-North Macedonia,150,Europe,039,Southern Europe,NA,NA,807,MK,MKD,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Eastern European States,NA
-Portugal,150,Europe,039,Southern Europe,NA,NA,620,PT,PRT,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Western European and other States,NA
-San Marino,150,Europe,039,Southern Europe,NA,NA,674,SM,SMR,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,NA,Western European and other States,NA
-Serbia,150,Europe,039,Southern Europe,NA,NA,688,RS,SRB,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Eastern European States,NA
-Slovenia,150,Europe,039,Southern Europe,NA,NA,705,SI,SVN,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Eastern European States,NA
-Spain,150,Europe,039,Southern Europe,NA,NA,724,ES,ESP,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Western European and other States,NA
-Austria,150,Europe,155,Western Europe,NA,NA,040,AT,AUT,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Western European and other States,NA
-Belgium,150,Europe,155,Western Europe,NA,NA,056,BE,BEL,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Western European and other States,NA
-France,150,Europe,155,Western Europe,NA,NA,250,FR,FRA,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,High income,NA,Western European and other States,NA
-Germany,150,Europe,155,Western Europe,NA,NA,276,DE,DEU,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,High income,NA,Western European and other States,NA
-Liechtenstein,150,Europe,155,Western Europe,NA,NA,438,LI,LIE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,NA,Western European and other States,NA
-Luxembourg,150,Europe,155,Western Europe,NA,NA,442,LU,LUX,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Western European and other States,NA
-Monaco,150,Europe,155,Western Europe,NA,NA,492,MC,MCO,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,NA,Western European and other States,NA
-Netherlands (Kingdom of the),150,Europe,155,Western Europe,NA,NA,528,NL,NLD,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Western European and other States,NA
-Switzerland,150,Europe,155,Western Europe,NA,NA,756,CH,CHE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Western European and other States,NA
-Australia,009,Oceania,053,Australia and New Zealand,NA,NA,036,AU,AUS,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,High income,NA,Western European and other States,NA
-Christmas Island,009,Oceania,053,Australia and New Zealand,NA,NA,162,CX,CXR,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,NA
-Cocos (Keeling) Islands,009,Oceania,053,Australia and New Zealand,NA,NA,166,CC,CCK,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,NA
-Heard Island and McDonald Islands,009,Oceania,053,Australia and New Zealand,NA,NA,334,HM,HMD,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,NA
-New Zealand,009,Oceania,053,Australia and New Zealand,NA,NA,554,NZ,NZL,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Western European and other States,NA
-Norfolk Island,009,Oceania,053,Australia and New Zealand,NA,NA,574,NF,NFK,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,NA
-Fiji,009,Oceania,054,Melanesia,NA,NA,242,FJ,FJI,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,Blend,Asia-Pacific States,NA
-New Caledonia,009,Oceania,054,Melanesia,NA,NA,540,NC,NCL,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,NA
-Papua New Guinea,009,Oceania,054,Melanesia,NA,NA,598,PG,PNG,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,Blend,Asia-Pacific States,TRUE
-Solomon Islands,009,Oceania,054,Melanesia,NA,NA,090,SB,SLB,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IDA,Asia-Pacific States,TRUE
-Vanuatu,009,Oceania,054,Melanesia,NA,NA,548,VU,VUT,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IDA,Asia-Pacific States,NA
-Guam,009,Oceania,057,Micronesia,NA,NA,316,GU,GUM,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,NA
-Kiribati,009,Oceania,057,Micronesia,NA,NA,296,KI,KIR,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IDA,Asia-Pacific States,NA
-Marshall Islands,009,Oceania,057,Micronesia,NA,NA,584,MH,MHL,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IDA,Asia-Pacific States,NA
-Micronesia (Federated States of),009,Oceania,057,Micronesia,NA,NA,583,FM,FSM,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IDA,Asia-Pacific States,NA
-Nauru,009,Oceania,057,Micronesia,NA,NA,520,NR,NRU,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,IBRD,Asia-Pacific States,NA
-Northern Mariana Islands,009,Oceania,057,Micronesia,NA,NA,580,MP,MNP,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,NA
-Palau,009,Oceania,057,Micronesia,NA,NA,585,PW,PLW,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,IBRD,Asia-Pacific States,NA
-United States Minor Outlying Islands,009,Oceania,057,Micronesia,NA,NA,581,UM,UMI,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,NA
-American Samoa,009,Oceania,061,Polynesia,NA,NA,016,AS,ASM,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,NA
-Cook Islands,009,Oceania,061,Polynesia,NA,NA,184,CK,COK,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,NA
-French Polynesia,009,Oceania,061,Polynesia,NA,NA,258,PF,PYF,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,NA
-Niue,009,Oceania,061,Polynesia,NA,NA,570,NU,NIU,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,NA
-Pitcairn,009,Oceania,061,Polynesia,NA,NA,612,PN,PCN,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,NA
-Samoa,009,Oceania,061,Polynesia,NA,NA,882,WS,WSM,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IDA,Asia-Pacific States,NA
-Tokelau,009,Oceania,061,Polynesia,NA,NA,772,TK,TKL,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,NA
-Tonga,009,Oceania,061,Polynesia,NA,NA,776,TO,TON,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IDA,Asia-Pacific States,NA
-Tuvalu,009,Oceania,061,Polynesia,NA,NA,798,TV,TUV,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IDA,Asia-Pacific States,NA
-Wallis and Futuna Islands,009,Oceania,061,Polynesia,NA,NA,876,WF,WLF,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,NA
+country,region_code,region_name,sub_region_code,sub_region_name,intermediate_region_code,intermediate_region_name,m49_code,iso_alpha2_code,iso_alpha3_code,is_LDC,is_LLDC,is_SIDS,is_G77,is_EU,is_G20,is_AU,is_P5,is_UN_member,is_OECD,world_bank_income_group,world_bank_lending_category,UN_regional_group,oecd_is_fragile,worldbank_fragility,worldbank_is_fragile
+Algeria,002,Africa,015,Northern Africa,NA,NA,012,DZ,DZA,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Upper middle income,IBRD,African States,FALSE,NA,FALSE
+Egypt,002,Africa,015,Northern Africa,NA,NA,818,EG,EGY,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,IBRD,African States,FALSE,NA,FALSE
+Libya,002,Africa,015,Northern Africa,NA,NA,434,LY,LBY,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Upper middle income,IBRD,African States,TRUE,Institutional and Social Fragility,TRUE
+Morocco,002,Africa,015,Northern Africa,NA,NA,504,MA,MAR,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,IBRD,African States,FALSE,NA,FALSE
+Sudan,002,Africa,015,Northern Africa,NA,NA,729,SD,SDN,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE,Conflict,TRUE
+Tunisia,002,Africa,015,Northern Africa,NA,NA,788,TN,TUN,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,IBRD,African States,FALSE,NA,FALSE
+Western Sahara,002,Africa,015,Northern Africa,NA,NA,732,EH,ESH,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,NA,NA,NA,FALSE,NA,FALSE
+British Indian Ocean Territory,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,086,IO,IOT,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,FALSE,NA,FALSE
+Burundi,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,108,BI,BDI,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE,Institutional and Social Fragility,TRUE
+Comoros,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,174,KM,COM,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,IDA,African States,TRUE,Institutional and Social Fragility,TRUE
+Djibouti,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,262,DJ,DJI,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,IDA,African States,TRUE,NA,FALSE
+Eritrea,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,232,ER,ERI,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE,Institutional and Social Fragility,TRUE
+Ethiopia,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,231,ET,ETH,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,NA,IDA,African States,TRUE,Conflict,TRUE
+French Southern Territories,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,260,TF,ATF,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,FALSE,NA,FALSE
+Kenya,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,404,KE,KEN,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,Blend,African States,TRUE,NA,FALSE
+Madagascar,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,450,MG,MDG,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE,NA,FALSE
+Malawi,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,454,MW,MWI,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE,NA,FALSE
+Mauritius,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,480,MU,MUS,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Upper middle income,IBRD,African States,FALSE,NA,FALSE
+Mayotte,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,175,YT,MYT,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,FALSE,NA,FALSE
+Mozambique,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,508,MZ,MOZ,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE,Conflict,TRUE
+Réunion,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,638,RE,REU,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,FALSE,NA,FALSE
+Rwanda,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,646,RW,RWA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE,NA,FALSE
+Seychelles,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,690,SC,SYC,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,High income,IBRD,African States,FALSE,NA,FALSE
+Somalia,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,706,SO,SOM,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE,Conflict,TRUE
+South Sudan,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,728,SS,SSD,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE,Conflict,TRUE
+Uganda,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,800,UG,UGA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE,NA,FALSE
+United Republic of Tanzania,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,834,TZ,TZA,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,IDA,African States,TRUE,NA,FALSE
+Zambia,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,894,ZM,ZMB,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,IDA,African States,TRUE,NA,FALSE
+Zimbabwe,002,Africa,202,Sub-Saharan Africa,014,Eastern Africa,716,ZW,ZWE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,Blend,African States,TRUE,Institutional and Social Fragility,TRUE
+Angola,002,Africa,202,Sub-Saharan Africa,017,Middle Africa,024,AO,AGO,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,IBRD,African States,TRUE,NA,FALSE
+Cameroon,002,Africa,202,Sub-Saharan Africa,017,Middle Africa,120,CM,CMR,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,Blend,African States,TRUE,Conflict,TRUE
+Central African Republic,002,Africa,202,Sub-Saharan Africa,017,Middle Africa,140,CF,CAF,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE,Conflict,TRUE
+Chad,002,Africa,202,Sub-Saharan Africa,017,Middle Africa,148,TD,TCD,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE,Institutional and Social Fragility,TRUE
+Congo,002,Africa,202,Sub-Saharan Africa,017,Middle Africa,178,CG,COG,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,Blend,African States,TRUE,Institutional and Social Fragility,TRUE
+Democratic Republic of the Congo,002,Africa,202,Sub-Saharan Africa,017,Middle Africa,180,CD,COD,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE,Conflict,TRUE
+Equatorial Guinea,002,Africa,202,Sub-Saharan Africa,017,Middle Africa,226,GQ,GNQ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Upper middle income,IBRD,African States,TRUE,NA,FALSE
+Gabon,002,Africa,202,Sub-Saharan Africa,017,Middle Africa,266,GA,GAB,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Upper middle income,IBRD,African States,TRUE,NA,FALSE
+Sao Tome and Principe,002,Africa,202,Sub-Saharan Africa,017,Middle Africa,678,ST,STP,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,IDA,African States,FALSE,Institutional and Social Fragility,TRUE
+Botswana,002,Africa,202,Sub-Saharan Africa,018,Southern Africa,072,BW,BWA,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Upper middle income,IBRD,African States,FALSE,NA,FALSE
+Eswatini,002,Africa,202,Sub-Saharan Africa,018,Southern Africa,748,SZ,SWZ,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,Blend,African States,TRUE,NA,FALSE
+Lesotho,002,Africa,202,Sub-Saharan Africa,018,Southern Africa,426,LS,LSO,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,IDA,African States,FALSE,NA,FALSE
+Namibia,002,Africa,202,Sub-Saharan Africa,018,Southern Africa,516,NA,NAM,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,IBRD,African States,FALSE,NA,FALSE
+South Africa,002,Africa,202,Sub-Saharan Africa,018,Southern Africa,710,ZA,ZAF,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,Upper middle income,IBRD,African States,FALSE,NA,FALSE
+Benin,002,Africa,202,Sub-Saharan Africa,011,Western Africa,204,BJ,BEN,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,IDA,African States,FALSE,NA,FALSE
+Burkina Faso,002,Africa,202,Sub-Saharan Africa,011,Western Africa,854,BF,BFA,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE,Conflict,TRUE
+Cabo Verde,002,Africa,202,Sub-Saharan Africa,011,Western Africa,132,CV,CPV,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Upper middle income,Blend,African States,FALSE,NA,FALSE
+Côte d’Ivoire,002,Africa,202,Sub-Saharan Africa,011,Western Africa,384,CI,CIV,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,Blend,African States,TRUE,NA,FALSE
+Gambia,002,Africa,202,Sub-Saharan Africa,011,Western Africa,270,GM,GMB,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE,NA,FALSE
+Ghana,002,Africa,202,Sub-Saharan Africa,011,Western Africa,288,GH,GHA,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,IDA,African States,FALSE,NA,FALSE
+Guinea,002,Africa,202,Sub-Saharan Africa,011,Western Africa,324,GN,GIN,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,IDA,African States,TRUE,NA,FALSE
+Guinea-Bissau,002,Africa,202,Sub-Saharan Africa,011,Western Africa,624,GW,GNB,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE,Institutional and Social Fragility,TRUE
+Liberia,002,Africa,202,Sub-Saharan Africa,011,Western Africa,430,LR,LBR,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE,NA,FALSE
+Mali,002,Africa,202,Sub-Saharan Africa,011,Western Africa,466,ML,MLI,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE,Conflict,TRUE
+Mauritania,002,Africa,202,Sub-Saharan Africa,011,Western Africa,478,MR,MRT,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,IDA,African States,TRUE,NA,FALSE
+Niger,002,Africa,202,Sub-Saharan Africa,011,Western Africa,562,NE,NER,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE,Conflict,TRUE
+Nigeria,002,Africa,202,Sub-Saharan Africa,011,Western Africa,566,NG,NGA,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,Blend,African States,TRUE,Conflict,TRUE
+Saint Helena,002,Africa,202,Sub-Saharan Africa,011,Western Africa,654,SH,SHN,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,FALSE,NA,FALSE
+Senegal,002,Africa,202,Sub-Saharan Africa,011,Western Africa,686,SN,SEN,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Lower middle income,IDA,African States,FALSE,NA,FALSE
+Sierra Leone,002,Africa,202,Sub-Saharan Africa,011,Western Africa,694,SL,SLE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE,NA,FALSE
+Togo,002,Africa,202,Sub-Saharan Africa,011,Western Africa,768,TG,TGO,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,Low income,IDA,African States,TRUE,NA,FALSE
+Anguilla,019,Americas,419,Latin America and the Caribbean,029,Caribbean,660,AI,AIA,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,FALSE,NA,FALSE
+Antigua and Barbuda,019,Americas,419,Latin America and the Caribbean,029,Caribbean,028,AG,ATG,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,IBRD,Latin American and Caribbean States,FALSE,NA,FALSE
+Aruba,019,Americas,419,Latin America and the Caribbean,029,Caribbean,533,AW,ABW,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,FALSE,NA,FALSE
+Bahamas,019,Americas,419,Latin America and the Caribbean,029,Caribbean,044,BS,BHS,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,NA,Latin American and Caribbean States,FALSE,NA,FALSE
+Barbados,019,Americas,419,Latin America and the Caribbean,029,Caribbean,052,BB,BRB,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,IBRD,Latin American and Caribbean States,FALSE,NA,FALSE
+"Bonaire, Sint Eustatius and Saba",019,Americas,419,Latin America and the Caribbean,029,Caribbean,535,BQ,BES,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,FALSE,NA,FALSE
+British Virgin Islands,019,Americas,419,Latin America and the Caribbean,029,Caribbean,092,VG,VGB,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,FALSE,NA,FALSE
+Cayman Islands,019,Americas,419,Latin America and the Caribbean,029,Caribbean,136,KY,CYM,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,FALSE,NA,FALSE
+Cuba,019,Americas,419,Latin America and the Caribbean,029,Caribbean,192,CU,CUB,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,NA,Latin American and Caribbean States,FALSE,NA,FALSE
+Curaçao,019,Americas,419,Latin America and the Caribbean,029,Caribbean,531,CW,CUW,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,FALSE,NA,FALSE
+Dominica,019,Americas,419,Latin America and the Caribbean,029,Caribbean,212,DM,DMA,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,Blend,Latin American and Caribbean States,FALSE,NA,FALSE
+Dominican Republic,019,Americas,419,Latin America and the Caribbean,029,Caribbean,214,DO,DOM,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Latin American and Caribbean States,FALSE,NA,FALSE
+Grenada,019,Americas,419,Latin America and the Caribbean,029,Caribbean,308,GD,GRD,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,Blend,Latin American and Caribbean States,FALSE,NA,FALSE
+Guadeloupe,019,Americas,419,Latin America and the Caribbean,029,Caribbean,312,GP,GLP,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,FALSE,NA,FALSE
+Haiti,019,Americas,419,Latin America and the Caribbean,029,Caribbean,332,HT,HTI,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IDA,Latin American and Caribbean States,TRUE,Conflict,TRUE
+Jamaica,019,Americas,419,Latin America and the Caribbean,029,Caribbean,388,JM,JAM,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Latin American and Caribbean States,FALSE,NA,FALSE
+Martinique,019,Americas,419,Latin America and the Caribbean,029,Caribbean,474,MQ,MTQ,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,FALSE,NA,FALSE
+Montserrat,019,Americas,419,Latin America and the Caribbean,029,Caribbean,500,MS,MSR,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,FALSE,NA,FALSE
+Puerto Rico,019,Americas,419,Latin America and the Caribbean,029,Caribbean,630,PR,PRI,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,FALSE,NA,FALSE
+Saint Barthélemy,019,Americas,419,Latin America and the Caribbean,029,Caribbean,652,BL,BLM,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,FALSE,NA,FALSE
+Saint Kitts and Nevis,019,Americas,419,Latin America and the Caribbean,029,Caribbean,659,KN,KNA,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,IBRD,Latin American and Caribbean States,FALSE,NA,FALSE
+Saint Lucia,019,Americas,419,Latin America and the Caribbean,029,Caribbean,662,LC,LCA,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,Blend,Latin American and Caribbean States,FALSE,NA,FALSE
+Saint Martin (French Part),019,Americas,419,Latin America and the Caribbean,029,Caribbean,663,MF,MAF,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,FALSE,NA,FALSE
+Saint Vincent and the Grenadines,019,Americas,419,Latin America and the Caribbean,029,Caribbean,670,VC,VCT,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,Blend,Latin American and Caribbean States,FALSE,NA,FALSE
+Sint Maarten (Dutch part),019,Americas,419,Latin America and the Caribbean,029,Caribbean,534,SX,SXM,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,FALSE,NA,FALSE
+Trinidad and Tobago,019,Americas,419,Latin America and the Caribbean,029,Caribbean,780,TT,TTO,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,IBRD,Latin American and Caribbean States,FALSE,NA,FALSE
+Turks and Caicos Islands,019,Americas,419,Latin America and the Caribbean,029,Caribbean,796,TC,TCA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,FALSE,NA,FALSE
+United States Virgin Islands,019,Americas,419,Latin America and the Caribbean,029,Caribbean,850,VI,VIR,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,FALSE,NA,FALSE
+Belize,019,Americas,419,Latin America and the Caribbean,013,Central America,084,BZ,BLZ,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,Blend,Latin American and Caribbean States,FALSE,NA,FALSE
+Costa Rica,019,Americas,419,Latin America and the Caribbean,013,Central America,188,CR,CRI,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,IBRD,Latin American and Caribbean States,FALSE,NA,FALSE
+El Salvador,019,Americas,419,Latin America and the Caribbean,013,Central America,222,SV,SLV,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Latin American and Caribbean States,FALSE,NA,FALSE
+Guatemala,019,Americas,419,Latin America and the Caribbean,013,Central America,320,GT,GTM,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Latin American and Caribbean States,TRUE,NA,FALSE
+Honduras,019,Americas,419,Latin America and the Caribbean,013,Central America,340,HN,HND,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IDA,Latin American and Caribbean States,FALSE,NA,FALSE
+Mexico,019,Americas,419,Latin America and the Caribbean,013,Central America,484,MX,MEX,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,Upper middle income,IBRD,Latin American and Caribbean States,FALSE,NA,FALSE
+Nicaragua,019,Americas,419,Latin America and the Caribbean,013,Central America,558,NI,NIC,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IDA,Latin American and Caribbean States,TRUE,NA,FALSE
+Panama,019,Americas,419,Latin America and the Caribbean,013,Central America,591,PA,PAN,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,IBRD,Latin American and Caribbean States,FALSE,NA,FALSE
+Argentina,019,Americas,419,Latin America and the Caribbean,005,South America,032,AR,ARG,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Latin American and Caribbean States,FALSE,NA,FALSE
+Bolivia (Plurinational State of),019,Americas,419,Latin America and the Caribbean,005,South America,068,BO,BOL,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IBRD,Latin American and Caribbean States,FALSE,NA,FALSE
+Bouvet Island,019,Americas,419,Latin America and the Caribbean,005,South America,074,BV,BVT,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,FALSE,NA,FALSE
+Brazil,019,Americas,419,Latin America and the Caribbean,005,South America,076,BR,BRA,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Latin American and Caribbean States,FALSE,NA,FALSE
+Chile,019,Americas,419,Latin America and the Caribbean,005,South America,152,CL,CHL,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,IBRD,Latin American and Caribbean States,FALSE,NA,FALSE
+Colombia,019,Americas,419,Latin America and the Caribbean,005,South America,170,CO,COL,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,Upper middle income,IBRD,Latin American and Caribbean States,FALSE,NA,FALSE
+Ecuador,019,Americas,419,Latin America and the Caribbean,005,South America,218,EC,ECU,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Latin American and Caribbean States,FALSE,NA,FALSE
+Falkland Islands (Malvinas),019,Americas,419,Latin America and the Caribbean,005,South America,238,FK,FLK,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,FALSE,NA,FALSE
+French Guiana,019,Americas,419,Latin America and the Caribbean,005,South America,254,GF,GUF,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,FALSE,NA,FALSE
+Guyana,019,Americas,419,Latin America and the Caribbean,005,South America,328,GY,GUY,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,IDA,Latin American and Caribbean States,FALSE,NA,FALSE
+Paraguay,019,Americas,419,Latin America and the Caribbean,005,South America,600,PY,PRY,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Latin American and Caribbean States,FALSE,NA,FALSE
+Peru,019,Americas,419,Latin America and the Caribbean,005,South America,604,PE,PER,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Latin American and Caribbean States,FALSE,NA,FALSE
+South Georgia and the South Sandwich Islands,019,Americas,419,Latin America and the Caribbean,005,South America,239,GS,SGS,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,FALSE,NA,FALSE
+Suriname,019,Americas,419,Latin America and the Caribbean,005,South America,740,SR,SUR,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,Blend,Latin American and Caribbean States,FALSE,NA,FALSE
+Uruguay,019,Americas,419,Latin America and the Caribbean,005,South America,858,UY,URY,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,IBRD,Latin American and Caribbean States,FALSE,NA,FALSE
+Venezuela (Bolivarian Republic of),019,Americas,419,Latin America and the Caribbean,005,South America,862,VE,VEN,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,NA,IBRD,Latin American and Caribbean States,TRUE,Institutional and Social Fragility,TRUE
+Bermuda,019,Americas,021,Northern America,NA,NA,060,BM,BMU,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,FALSE,NA,FALSE
+Canada,019,Americas,021,Northern America,NA,NA,124,CA,CAN,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,High income,NA,Western European and other States,FALSE,NA,FALSE
+Greenland,019,Americas,021,Northern America,NA,NA,304,GL,GRL,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,FALSE,NA,FALSE
+Saint Pierre and Miquelon,019,Americas,021,Northern America,NA,NA,666,PM,SPM,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,FALSE,NA,FALSE
+United States of America,019,Americas,021,Northern America,NA,NA,840,US,USA,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,High income,NA,Western European and other States,FALSE,NA,FALSE
+Antarctica,NA,NA,NA,NA,NA,NA,010,AQ,ATA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,FALSE,NA,FALSE
+Kazakhstan,142,Asia,143,Central Asia,NA,NA,398,KZ,KAZ,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Asia-Pacific States,FALSE,NA,FALSE
+Kyrgyzstan,142,Asia,143,Central Asia,NA,NA,417,KG,KGZ,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IDA,Asia-Pacific States,FALSE,NA,FALSE
+Tajikistan,142,Asia,143,Central Asia,NA,NA,762,TJ,TJK,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IDA,Asia-Pacific States,TRUE,NA,FALSE
+Turkmenistan,142,Asia,143,Central Asia,NA,NA,795,TM,TKM,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Asia-Pacific States,TRUE,NA,FALSE
+Uzbekistan,142,Asia,143,Central Asia,NA,NA,860,UZ,UZB,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,Blend,Asia-Pacific States,FALSE,NA,FALSE
+China,142,Asia,030,Eastern Asia,NA,NA,156,CN,CHN,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,Upper middle income,IBRD,Asia-Pacific States,FALSE,NA,FALSE
+"China, Hong Kong Special Administrative Region",142,Asia,030,Eastern Asia,NA,NA,344,HK,HKG,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,FALSE,NA,FALSE
+"China, Macao Special Administrative Region",142,Asia,030,Eastern Asia,NA,NA,446,MO,MAC,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,FALSE,NA,FALSE
+Democratic People's Republic of Korea,142,Asia,030,Eastern Asia,NA,NA,408,KP,PRK,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Low income,NA,Asia-Pacific States,TRUE,NA,FALSE
+Japan,142,Asia,030,Eastern Asia,NA,NA,392,JP,JPN,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,High income,NA,Asia-Pacific States,FALSE,NA,FALSE
+Mongolia,142,Asia,030,Eastern Asia,NA,NA,496,MN,MNG,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Asia-Pacific States,FALSE,NA,FALSE
+Republic of Korea,142,Asia,030,Eastern Asia,NA,NA,410,KR,KOR,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,High income,NA,Asia-Pacific States,FALSE,NA,FALSE
+Brunei Darussalam,142,Asia,035,South-eastern Asia,NA,NA,096,BN,BRN,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,NA,Asia-Pacific States,FALSE,NA,FALSE
+Cambodia,142,Asia,035,South-eastern Asia,NA,NA,116,KH,KHM,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IDA,Asia-Pacific States,TRUE,NA,FALSE
+Indonesia,142,Asia,035,South-eastern Asia,NA,NA,360,ID,IDN,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Asia-Pacific States,FALSE,NA,FALSE
+Lao People's Democratic Republic,142,Asia,035,South-eastern Asia,NA,NA,418,LA,LAO,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IDA,Asia-Pacific States,TRUE,NA,FALSE
+Malaysia,142,Asia,035,South-eastern Asia,NA,NA,458,MY,MYS,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Asia-Pacific States,FALSE,NA,FALSE
+Myanmar,142,Asia,035,South-eastern Asia,NA,NA,104,MM,MMR,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IDA,Asia-Pacific States,TRUE,Conflict,TRUE
+Philippines,142,Asia,035,South-eastern Asia,NA,NA,608,PH,PHL,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IBRD,Asia-Pacific States,FALSE,NA,FALSE
+Singapore,142,Asia,035,South-eastern Asia,NA,NA,702,SG,SGP,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,NA,Asia-Pacific States,FALSE,NA,FALSE
+Thailand,142,Asia,035,South-eastern Asia,NA,NA,764,TH,THA,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Asia-Pacific States,FALSE,NA,FALSE
+Timor-Leste,142,Asia,035,South-eastern Asia,NA,NA,626,TL,TLS,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,Blend,Asia-Pacific States,TRUE,Institutional and Social Fragility,TRUE
+Viet Nam,142,Asia,035,South-eastern Asia,NA,NA,704,VN,VNM,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IBRD,Asia-Pacific States,FALSE,NA,FALSE
+Afghanistan,142,Asia,034,Southern Asia,NA,NA,004,AF,AFG,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Low income,IDA,Asia-Pacific States,TRUE,Conflict,TRUE
+Bangladesh,142,Asia,034,Southern Asia,NA,NA,050,BD,BGD,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IDA,Asia-Pacific States,TRUE,NA,FALSE
+Bhutan,142,Asia,034,Southern Asia,NA,NA,064,BT,BTN,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IDA,Asia-Pacific States,FALSE,NA,FALSE
+India,142,Asia,034,Southern Asia,NA,NA,356,IN,IND,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IBRD,Asia-Pacific States,FALSE,NA,FALSE
+Iran (Islamic Republic of),142,Asia,034,Southern Asia,NA,NA,364,IR,IRN,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Asia-Pacific States,TRUE,NA,FALSE
+Maldives,142,Asia,034,Southern Asia,NA,NA,462,MV,MDV,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IDA,Asia-Pacific States,FALSE,NA,FALSE
+Nepal,142,Asia,034,Southern Asia,NA,NA,524,NP,NPL,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IDA,Asia-Pacific States,FALSE,NA,FALSE
+Pakistan,142,Asia,034,Southern Asia,NA,NA,586,PK,PAK,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,Blend,Asia-Pacific States,TRUE,NA,FALSE
+Sri Lanka,142,Asia,034,Southern Asia,NA,NA,144,LK,LKA,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IDA,Asia-Pacific States,FALSE,NA,FALSE
+Armenia,142,Asia,145,Western Asia,NA,NA,051,AM,ARM,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Eastern European States,FALSE,NA,FALSE
+Azerbaijan,142,Asia,145,Western Asia,NA,NA,031,AZ,AZE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Eastern European States,FALSE,NA,FALSE
+Bahrain,142,Asia,145,Western Asia,NA,NA,048,BH,BHR,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,NA,Asia-Pacific States,FALSE,NA,FALSE
+Cyprus,142,Asia,145,Western Asia,NA,NA,196,CY,CYP,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,NA,Asia-Pacific States,FALSE,NA,FALSE
+Georgia,142,Asia,145,Western Asia,NA,NA,268,GE,GEO,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Eastern European States,FALSE,NA,FALSE
+Iraq,142,Asia,145,Western Asia,NA,NA,368,IQ,IRQ,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Asia-Pacific States,TRUE,Conflict,TRUE
+Israel,142,Asia,145,Western Asia,NA,NA,376,IL,ISR,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Western European and other States,FALSE,NA,FALSE
+Jordan,142,Asia,145,Western Asia,NA,NA,400,JO,JOR,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IBRD,Asia-Pacific States,FALSE,NA,FALSE
+Kuwait,142,Asia,145,Western Asia,NA,NA,414,KW,KWT,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,NA,Asia-Pacific States,FALSE,NA,FALSE
+Lebanon,142,Asia,145,Western Asia,NA,NA,422,LB,LBN,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IBRD,Asia-Pacific States,TRUE,Conflict,TRUE
+Oman,142,Asia,145,Western Asia,NA,NA,512,OM,OMN,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,NA,Asia-Pacific States,FALSE,NA,FALSE
+Qatar,142,Asia,145,Western Asia,NA,NA,634,QA,QAT,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,NA,Asia-Pacific States,FALSE,NA,FALSE
+Saudi Arabia,142,Asia,145,Western Asia,NA,NA,682,SA,SAU,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,High income,NA,Asia-Pacific States,FALSE,NA,FALSE
+State of Palestine,142,Asia,145,Western Asia,NA,NA,275,PS,PSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,Lower middle income,NA,NA,TRUE,Conflict,TRUE
+Syrian Arab Republic,142,Asia,145,Western Asia,NA,NA,760,SY,SYR,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Low income,IDA,Asia-Pacific States,TRUE,Conflict,TRUE
+Türkiye,142,Asia,145,Western Asia,NA,NA,792,TR,TUR,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,Upper middle income,IBRD,Western European and other States,FALSE,NA,FALSE
+United Arab Emirates,142,Asia,145,Western Asia,NA,NA,784,AE,ARE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,NA,Asia-Pacific States,FALSE,NA,FALSE
+Yemen,142,Asia,145,Western Asia,NA,NA,887,YE,YEM,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Low income,IDA,Asia-Pacific States,TRUE,Conflict,TRUE
+Belarus,150,Europe,151,Eastern Europe,NA,NA,112,BY,BLR,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Eastern European States,FALSE,NA,FALSE
+Bulgaria,150,Europe,151,Eastern Europe,NA,NA,100,BG,BGR,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,IBRD,Eastern European States,FALSE,NA,FALSE
+Czechia,150,Europe,151,Eastern Europe,NA,NA,203,CZ,CZE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Eastern European States,FALSE,NA,FALSE
+Hungary,150,Europe,151,Eastern Europe,NA,NA,348,HU,HUN,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Eastern European States,FALSE,NA,FALSE
+Poland,150,Europe,151,Eastern Europe,NA,NA,616,PL,POL,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,IBRD,Eastern European States,FALSE,NA,FALSE
+Republic of Moldova,150,Europe,151,Eastern Europe,NA,NA,498,MD,MDA,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Eastern European States,FALSE,NA,FALSE
+Romania,150,Europe,151,Eastern Europe,NA,NA,642,RO,ROU,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,IBRD,Eastern European States,FALSE,NA,FALSE
+Russian Federation,150,Europe,151,Eastern Europe,NA,NA,643,RU,RUS,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,High income,IBRD,Eastern European States,FALSE,NA,FALSE
+Slovakia,150,Europe,151,Eastern Europe,NA,NA,703,SK,SVK,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Eastern European States,FALSE,NA,FALSE
+Ukraine,150,Europe,151,Eastern Europe,NA,NA,804,UA,UKR,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Eastern European States,FALSE,Conflict,TRUE
+Åland Islands,150,Europe,154,Northern Europe,NA,NA,248,AX,ALA,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,FALSE,NA,FALSE
+Denmark,150,Europe,154,Northern Europe,NA,NA,208,DK,DNK,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Western European and other States,FALSE,NA,FALSE
+Estonia,150,Europe,154,Northern Europe,NA,NA,233,EE,EST,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Eastern European States,FALSE,NA,FALSE
+Faroe Islands,150,Europe,154,Northern Europe,NA,NA,234,FO,FRO,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,FALSE,NA,FALSE
+Finland,150,Europe,154,Northern Europe,NA,NA,246,FI,FIN,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Western European and other States,FALSE,NA,FALSE
+Guernsey,150,Europe,154,Northern Europe,NA,NA,831,GG,GGY,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,FALSE,NA,FALSE
+Iceland,150,Europe,154,Northern Europe,NA,NA,352,IS,ISL,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Western European and other States,FALSE,NA,FALSE
+Ireland,150,Europe,154,Northern Europe,NA,NA,372,IE,IRL,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Western European and other States,FALSE,NA,FALSE
+Isle of Man,150,Europe,154,Northern Europe,NA,NA,833,IM,IMN,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,FALSE,NA,FALSE
+Jersey,150,Europe,154,Northern Europe,NA,NA,832,JE,JEY,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,FALSE,NA,FALSE
+Latvia,150,Europe,154,Northern Europe,NA,NA,428,LV,LVA,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Eastern European States,FALSE,NA,FALSE
+Lithuania,150,Europe,154,Northern Europe,NA,NA,440,LT,LTU,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Eastern European States,FALSE,NA,FALSE
+Norway,150,Europe,154,Northern Europe,NA,NA,578,NO,NOR,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Western European and other States,FALSE,NA,FALSE
+Svalbard and Jan Mayen Islands,150,Europe,154,Northern Europe,NA,NA,744,SJ,SJM,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,FALSE,NA,FALSE
+Sweden,150,Europe,154,Northern Europe,NA,NA,752,SE,SWE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Western European and other States,FALSE,NA,FALSE
+United Kingdom of Great Britain and Northern Ireland,150,Europe,154,Northern Europe,NA,NA,826,GB,GBR,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,TRUE,TRUE,High income,NA,Western European and other States,FALSE,NA,FALSE
+Albania,150,Europe,039,Southern Europe,NA,NA,008,AL,ALB,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Eastern European States,FALSE,NA,FALSE
+Andorra,150,Europe,039,Southern Europe,NA,NA,020,AD,AND,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,NA,Western European and other States,FALSE,NA,FALSE
+Bosnia and Herzegovina,150,Europe,039,Southern Europe,NA,NA,070,BA,BIH,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Eastern European States,FALSE,NA,FALSE
+Croatia,150,Europe,039,Southern Europe,NA,NA,191,HR,HRV,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,IBRD,Eastern European States,FALSE,NA,FALSE
+Gibraltar,150,Europe,039,Southern Europe,NA,NA,292,GI,GIB,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,FALSE,NA,FALSE
+Greece,150,Europe,039,Southern Europe,NA,NA,300,GR,GRC,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Western European and other States,FALSE,NA,FALSE
+Holy See,150,Europe,039,Southern Europe,NA,NA,336,VA,VAT,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,FALSE,NA,FALSE
+Italy,150,Europe,039,Southern Europe,NA,NA,380,IT,ITA,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,High income,NA,Western European and other States,FALSE,NA,FALSE
+Malta,150,Europe,039,Southern Europe,NA,NA,470,MT,MLT,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,NA,Western European and other States,FALSE,NA,FALSE
+Montenegro,150,Europe,039,Southern Europe,NA,NA,499,ME,MNE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Eastern European States,FALSE,NA,FALSE
+North Macedonia,150,Europe,039,Southern Europe,NA,NA,807,MK,MKD,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Eastern European States,FALSE,NA,FALSE
+Portugal,150,Europe,039,Southern Europe,NA,NA,620,PT,PRT,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Western European and other States,FALSE,NA,FALSE
+San Marino,150,Europe,039,Southern Europe,NA,NA,674,SM,SMR,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,NA,Western European and other States,FALSE,NA,FALSE
+Serbia,150,Europe,039,Southern Europe,NA,NA,688,RS,SRB,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IBRD,Eastern European States,FALSE,NA,FALSE
+Slovenia,150,Europe,039,Southern Europe,NA,NA,705,SI,SVN,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Eastern European States,FALSE,NA,FALSE
+Spain,150,Europe,039,Southern Europe,NA,NA,724,ES,ESP,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Western European and other States,FALSE,NA,FALSE
+Austria,150,Europe,155,Western Europe,NA,NA,040,AT,AUT,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Western European and other States,FALSE,NA,FALSE
+Belgium,150,Europe,155,Western Europe,NA,NA,056,BE,BEL,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Western European and other States,FALSE,NA,FALSE
+France,150,Europe,155,Western Europe,NA,NA,250,FR,FRA,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,TRUE,TRUE,High income,NA,Western European and other States,FALSE,NA,FALSE
+Germany,150,Europe,155,Western Europe,NA,NA,276,DE,DEU,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,High income,NA,Western European and other States,FALSE,NA,FALSE
+Liechtenstein,150,Europe,155,Western Europe,NA,NA,438,LI,LIE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,NA,Western European and other States,FALSE,NA,FALSE
+Luxembourg,150,Europe,155,Western Europe,NA,NA,442,LU,LUX,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Western European and other States,FALSE,NA,FALSE
+Monaco,150,Europe,155,Western Europe,NA,NA,492,MC,MCO,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,NA,Western European and other States,FALSE,NA,FALSE
+Netherlands (Kingdom of the),150,Europe,155,Western Europe,NA,NA,528,NL,NLD,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Western European and other States,FALSE,NA,FALSE
+Switzerland,150,Europe,155,Western Europe,NA,NA,756,CH,CHE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Western European and other States,FALSE,NA,FALSE
+Australia,009,Oceania,053,Australia and New Zealand,NA,NA,036,AU,AUS,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,High income,NA,Western European and other States,FALSE,NA,FALSE
+Christmas Island,009,Oceania,053,Australia and New Zealand,NA,NA,162,CX,CXR,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,FALSE,NA,FALSE
+Cocos (Keeling) Islands,009,Oceania,053,Australia and New Zealand,NA,NA,166,CC,CCK,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,FALSE,NA,FALSE
+Heard Island and McDonald Islands,009,Oceania,053,Australia and New Zealand,NA,NA,334,HM,HMD,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,FALSE,NA,FALSE
+New Zealand,009,Oceania,053,Australia and New Zealand,NA,NA,554,NZ,NZL,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,High income,NA,Western European and other States,FALSE,NA,FALSE
+Norfolk Island,009,Oceania,053,Australia and New Zealand,NA,NA,574,NF,NFK,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,FALSE,NA,FALSE
+Fiji,009,Oceania,054,Melanesia,NA,NA,242,FJ,FJI,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,Blend,Asia-Pacific States,FALSE,NA,FALSE
+New Caledonia,009,Oceania,054,Melanesia,NA,NA,540,NC,NCL,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,FALSE,NA,FALSE
+Papua New Guinea,009,Oceania,054,Melanesia,NA,NA,598,PG,PNG,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,Blend,Asia-Pacific States,TRUE,Institutional and Social Fragility,TRUE
+Solomon Islands,009,Oceania,054,Melanesia,NA,NA,090,SB,SLB,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IDA,Asia-Pacific States,TRUE,Institutional and Social Fragility,TRUE
+Vanuatu,009,Oceania,054,Melanesia,NA,NA,548,VU,VUT,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IDA,Asia-Pacific States,FALSE,NA,FALSE
+Guam,009,Oceania,057,Micronesia,NA,NA,316,GU,GUM,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,FALSE,NA,FALSE
+Kiribati,009,Oceania,057,Micronesia,NA,NA,296,KI,KIR,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IDA,Asia-Pacific States,FALSE,Institutional and Social Fragility,TRUE
+Marshall Islands,009,Oceania,057,Micronesia,NA,NA,584,MH,MHL,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IDA,Asia-Pacific States,FALSE,Institutional and Social Fragility,TRUE
+Micronesia (Federated States of),009,Oceania,057,Micronesia,NA,NA,583,FM,FSM,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Lower middle income,IDA,Asia-Pacific States,FALSE,Institutional and Social Fragility,TRUE
+Nauru,009,Oceania,057,Micronesia,NA,NA,520,NR,NRU,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,IBRD,Asia-Pacific States,FALSE,NA,FALSE
+Northern Mariana Islands,009,Oceania,057,Micronesia,NA,NA,580,MP,MNP,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,FALSE,NA,FALSE
+Palau,009,Oceania,057,Micronesia,NA,NA,585,PW,PLW,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,High income,IBRD,Asia-Pacific States,FALSE,NA,FALSE
+United States Minor Outlying Islands,009,Oceania,057,Micronesia,NA,NA,581,UM,UMI,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,FALSE,NA,FALSE
+American Samoa,009,Oceania,061,Polynesia,NA,NA,016,AS,ASM,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,FALSE,NA,FALSE
+Cook Islands,009,Oceania,061,Polynesia,NA,NA,184,CK,COK,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,FALSE,NA,FALSE
+French Polynesia,009,Oceania,061,Polynesia,NA,NA,258,PF,PYF,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,High income,NA,NA,FALSE,NA,FALSE
+Niue,009,Oceania,061,Polynesia,NA,NA,570,NU,NIU,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,FALSE,NA,FALSE
+Pitcairn,009,Oceania,061,Polynesia,NA,NA,612,PN,PCN,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,FALSE,NA,FALSE
+Samoa,009,Oceania,061,Polynesia,NA,NA,882,WS,WSM,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IDA,Asia-Pacific States,FALSE,NA,FALSE
+Tokelau,009,Oceania,061,Polynesia,NA,NA,772,TK,TKL,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,FALSE,NA,FALSE
+Tonga,009,Oceania,061,Polynesia,NA,NA,776,TO,TON,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IDA,Asia-Pacific States,FALSE,NA,FALSE
+Tuvalu,009,Oceania,061,Polynesia,NA,NA,798,TV,TUV,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,Upper middle income,IDA,Asia-Pacific States,FALSE,Institutional and Social Fragility,TRUE
+Wallis and Futuna Islands,009,Oceania,061,Polynesia,NA,NA,876,WF,WLF,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,NA,NA,NA,FALSE,NA,FALSE
