@@ -176,7 +176,6 @@ g20 <- tibble(
 
 
 # add iso codes
-# FIXME: discuss
 g20 <- g20 |>
   filter(!country %in% c("African Union", "European Union")) |>
   mutate(
@@ -339,7 +338,7 @@ regional_groups <- regional_groups |>
   ) |>
   rename(
     UN_regional_group = regional_group
-  )
+  ) |> select(-country)
 
 
 unds <- unds |> left_join(regional_groups, by = "iso_alpha3_code")
