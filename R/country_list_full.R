@@ -367,7 +367,8 @@ oecd_fragility <- fragile_countries |>
   ) |>
   select(-country)
 
-unds <- unds |> left_join(oecd_fragility, by = "iso_alpha3_code") |> 
+unds <- unds |>
+  left_join(oecd_fragility, by = "iso_alpha3_code") |>
   mutate(oecd_is_fragile = oecd_is_fragile |> replace_na(FALSE))
 
 # World Bank FY26 List of Fragile and Conflict-affected Situations --------
@@ -425,19 +426,83 @@ wb_fragile_countries <-
   )
 
 worldbank_fragility <- bind_rows(wb_conflict_countries, wb_fragile_countries) |>
-  mutate(worldbank_is_fragile = TRUE) |> 
+  mutate(worldbank_is_fragile = TRUE) |>
   mutate(
     iso_alpha3_code = countrycode::countrycode(
       country,
       "country.name",
       "iso3c"
     ),
-  ) |> select(-country)
+  ) |>
+  select(-country)
 
 
-unds <- unds |> 
-  left_join(worldbank_fragility, by = "iso_alpha3_code") |> 
+unds <- unds |>
+  left_join(worldbank_fragility, by = "iso_alpha3_code") |>
   mutate(worldbank_is_fragile = worldbank_is_fragile |> replace_na(FALSE))
+
+
+# Resident Coordinator System Countries -----------------------------------
+
+rc_countries <- readxl::read_xlsx(
+  here::here("data", "external", "rc_system_countries.xlsx")
+)
+
+rc_countries <- rc_countries |> janitor::clean_names()
+
+rc_countries <- rc_countries |>
+  filter(country != "Kosovo") |>
+  mutate(
+    iso_alpha3_code = countrycode::countrycode(
+      country,
+      "country.name",
+      "iso3c"
+    ),
+    has_rc = TRUE,
+    has_mco = mco |>
+      case_match(
+        "No" ~ FALSE,
+        "Yes" ~ TRUE
+      )
+  ) |>
+  select(iso_alpha3_code, has_rc, has_mco)
+
+
+unds <- unds |>
+  left_join(rc_countries, by = "iso_alpha3_code") |>
+  mutate(has_rc = has_rc |> replace_na(FALSE))
+
+
+# UN Sustainable Development Cooperation Frameworks (UNSDCFs) -------------
+
+unsdg_countries <- read_csv(
+  here::here("data", "external", "UNSDG_rollout_UNSDCFs.csv")
+)
+
+unsdg_countries <- unsdg_countries |> janitor::clean_names()
+
+unsdg_countries <- unsdg_countries |>
+  distinct(un_country_team) |>
+  rename(country = un_country_team)
+
+unsdg_countries <- unsdg_countries |>
+  filter(
+    !country %in% c("Kosovo (as per UNSCR 1244)", "Pacific", "the Caribbean")
+  ) |>
+  mutate(
+    iso_alpha3_code = countrycode::countrycode(
+      country,
+      "country.name",
+      "iso3c"
+    ),
+    has_unsdg_framework = TRUE
+  ) |>
+  select(-country)
+
+
+unds <- unds |>
+  left_join(unsdg_countries, by = "iso_alpha3_code") |>
+  mutate(has_unsdg_framework = has_unsdg_framework |> replace_na(FALSE))
 
 
 # Export ------------------------------------------------------------------
