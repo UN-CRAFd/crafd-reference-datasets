@@ -125,3 +125,13 @@ Chose import option `Web`.
 ### In Airtable
 
 Choose `CSV File` then `Link (URL)`.
+
+---
+
+```{r run-stats}
+#| results: asis
+#| echo: false
+
+cat(glue::glue("Last refresh: {Sys.Date()}"))
+```
+

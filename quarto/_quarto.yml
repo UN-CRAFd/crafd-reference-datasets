@@ -5,8 +5,12 @@ project:
     port: 8000
 
 
+
+
 website:
   title: "| Reference Datasets"
+  # margin-footer: | 
+  #   This page brought to you by <https://example.com>
   navbar:
     left:
       - href: index.qmd
