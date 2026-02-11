@@ -1,0 +1,249 @@
+global_code,global_name,region_code,region_name,sub_region_code,sub_region_name,intermediate_region_code,intermediate_region_name,country_or_area,m49_code,iso_alpha2,iso_alpha3,is_ldc,is_lldc,is_sids
+1,World,2,Africa,15,Northern Africa,,,Algeria,12,DZ,DZA,False,False,False
+1,World,2,Africa,15,Northern Africa,,,Egypt,818,EG,EGY,False,False,False
+1,World,2,Africa,15,Northern Africa,,,Libya,434,LY,LBY,False,False,False
+1,World,2,Africa,15,Northern Africa,,,Morocco,504,MA,MAR,False,False,False
+1,World,2,Africa,15,Northern Africa,,,Sudan,729,SD,SDN,True,False,False
+1,World,2,Africa,15,Northern Africa,,,Tunisia,788,TN,TUN,False,False,False
+1,World,2,Africa,15,Northern Africa,,,Western Sahara,732,EH,ESH,False,False,False
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,British Indian Ocean Territory,86,IO,IOT,False,False,False
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Burundi,108,BI,BDI,True,True,False
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Comoros,174,KM,COM,True,False,True
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Djibouti,262,DJ,DJI,True,False,False
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Eritrea,232,ER,ERI,True,False,False
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Ethiopia,231,ET,ETH,True,True,False
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,French Southern Territories,260,TF,ATF,False,False,False
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Kenya,404,KE,KEN,False,False,False
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Madagascar,450,MG,MDG,True,False,False
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Malawi,454,MW,MWI,True,True,False
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Mauritius,480,MU,MUS,False,False,True
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Mayotte,175,YT,MYT,False,False,False
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Mozambique,508,MZ,MOZ,True,False,False
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Réunion,638,RE,REU,False,False,False
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Rwanda,646,RW,RWA,True,True,False
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Seychelles,690,SC,SYC,False,False,True
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Somalia,706,SO,SOM,True,False,False
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,South Sudan,728,SS,SSD,True,True,False
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Uganda,800,UG,UGA,True,True,False
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,United Republic of Tanzania,834,TZ,TZA,True,False,False
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Zambia,894,ZM,ZMB,True,True,False
+1,World,2,Africa,202,Sub-Saharan Africa,14,Eastern Africa,Zimbabwe,716,ZW,ZWE,False,True,False
+1,World,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Angola,24,AO,AGO,True,False,False
+1,World,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Cameroon,120,CM,CMR,False,False,False
+1,World,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Central African Republic,140,CF,CAF,True,True,False
+1,World,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Chad,148,TD,TCD,True,True,False
+1,World,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Congo,178,CG,COG,False,False,False
+1,World,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Democratic Republic of the Congo,180,CD,COD,True,False,False
+1,World,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Equatorial Guinea,226,GQ,GNQ,False,False,False
+1,World,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Gabon,266,GA,GAB,False,False,False
+1,World,2,Africa,202,Sub-Saharan Africa,17,Middle Africa,Sao Tome and Principe,678,ST,STP,False,False,True
+1,World,2,Africa,202,Sub-Saharan Africa,18,Southern Africa,Botswana,72,BW,BWA,False,True,False
+1,World,2,Africa,202,Sub-Saharan Africa,18,Southern Africa,Eswatini,748,SZ,SWZ,False,True,False
+1,World,2,Africa,202,Sub-Saharan Africa,18,Southern Africa,Lesotho,426,LS,LSO,True,True,False
+1,World,2,Africa,202,Sub-Saharan Africa,18,Southern Africa,Namibia,516,NA,NAM,False,False,False
+1,World,2,Africa,202,Sub-Saharan Africa,18,Southern Africa,South Africa,710,ZA,ZAF,False,False,False
+1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Benin,204,BJ,BEN,True,False,False
+1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Burkina Faso,854,BF,BFA,True,True,False
+1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Cabo Verde,132,CV,CPV,False,False,True
+1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Côte d’Ivoire,384,CI,CIV,False,False,False
+1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Gambia,270,GM,GMB,True,False,False
+1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Ghana,288,GH,GHA,False,False,False
+1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Guinea,324,GN,GIN,True,False,False
+1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Guinea-Bissau,624,GW,GNB,True,False,True
+1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Liberia,430,LR,LBR,True,False,False
+1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Mali,466,ML,MLI,True,True,False
+1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Mauritania,478,MR,MRT,True,False,False
+1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Niger,562,NE,NER,True,True,False
+1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Nigeria,566,NG,NGA,False,False,False
+1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Saint Helena,654,SH,SHN,False,False,False
+1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Senegal,686,SN,SEN,True,False,False
+1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Sierra Leone,694,SL,SLE,True,False,False
+1,World,2,Africa,202,Sub-Saharan Africa,11,Western Africa,Togo,768,TG,TGO,True,False,False
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Anguilla,660,AI,AIA,False,False,True
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Antigua and Barbuda,28,AG,ATG,False,False,True
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Aruba,533,AW,ABW,False,False,True
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Bahamas,44,BS,BHS,False,False,True
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Barbados,52,BB,BRB,False,False,True
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,"Bonaire, Sint Eustatius and Saba",535,BQ,BES,False,False,True
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,British Virgin Islands,92,VG,VGB,False,False,True
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Cayman Islands,136,KY,CYM,False,False,False
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Cuba,192,CU,CUB,False,False,True
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Curaçao,531,CW,CUW,False,False,True
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Dominica,212,DM,DMA,False,False,True
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Dominican Republic,214,DO,DOM,False,False,True
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Grenada,308,GD,GRD,False,False,True
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Guadeloupe,312,GP,GLP,False,False,False
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Haiti,332,HT,HTI,True,False,True
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Jamaica,388,JM,JAM,False,False,True
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Martinique,474,MQ,MTQ,False,False,False
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Montserrat,500,MS,MSR,False,False,True
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Puerto Rico,630,PR,PRI,False,False,True
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Saint Barthélemy,652,BL,BLM,False,False,False
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Saint Kitts and Nevis,659,KN,KNA,False,False,True
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Saint Lucia,662,LC,LCA,False,False,True
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Saint Martin (French Part),663,MF,MAF,False,False,False
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Saint Vincent and the Grenadines,670,VC,VCT,False,False,True
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Sint Maarten (Dutch part),534,SX,SXM,False,False,True
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Trinidad and Tobago,780,TT,TTO,False,False,True
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,Turks and Caicos Islands,796,TC,TCA,False,False,False
+1,World,19,Americas,419,Latin America and the Caribbean,29,Caribbean,United States Virgin Islands,850,VI,VIR,False,False,True
+1,World,19,Americas,419,Latin America and the Caribbean,13,Central America,Belize,84,BZ,BLZ,False,False,True
+1,World,19,Americas,419,Latin America and the Caribbean,13,Central America,Costa Rica,188,CR,CRI,False,False,False
+1,World,19,Americas,419,Latin America and the Caribbean,13,Central America,El Salvador,222,SV,SLV,False,False,False
+1,World,19,Americas,419,Latin America and the Caribbean,13,Central America,Guatemala,320,GT,GTM,False,False,False
+1,World,19,Americas,419,Latin America and the Caribbean,13,Central America,Honduras,340,HN,HND,False,False,False
+1,World,19,Americas,419,Latin America and the Caribbean,13,Central America,Mexico,484,MX,MEX,False,False,False
+1,World,19,Americas,419,Latin America and the Caribbean,13,Central America,Nicaragua,558,NI,NIC,False,False,False
+1,World,19,Americas,419,Latin America and the Caribbean,13,Central America,Panama,591,PA,PAN,False,False,False
+1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Argentina,32,AR,ARG,False,False,False
+1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Bolivia (Plurinational State of),68,BO,BOL,False,True,False
+1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Bouvet Island,74,BV,BVT,False,False,False
+1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Brazil,76,BR,BRA,False,False,False
+1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Chile,152,CL,CHL,False,False,False
+1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Colombia,170,CO,COL,False,False,False
+1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Ecuador,218,EC,ECU,False,False,False
+1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Falkland Islands (Malvinas),238,FK,FLK,False,False,False
+1,World,19,Americas,419,Latin America and the Caribbean,5,South America,French Guiana,254,GF,GUF,False,False,False
+1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Guyana,328,GY,GUY,False,False,True
+1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Paraguay,600,PY,PRY,False,True,False
+1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Peru,604,PE,PER,False,False,False
+1,World,19,Americas,419,Latin America and the Caribbean,5,South America,South Georgia and the South Sandwich Islands,239,GS,SGS,False,False,False
+1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Suriname,740,SR,SUR,False,False,True
+1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Uruguay,858,UY,URY,False,False,False
+1,World,19,Americas,419,Latin America and the Caribbean,5,South America,Venezuela (Bolivarian Republic of),862,VE,VEN,False,False,False
+1,World,19,Americas,21,Northern America,,,Bermuda,60,BM,BMU,False,False,False
+1,World,19,Americas,21,Northern America,,,Canada,124,CA,CAN,False,False,False
+1,World,19,Americas,21,Northern America,,,Greenland,304,GL,GRL,False,False,False
+1,World,19,Americas,21,Northern America,,,Saint Pierre and Miquelon,666,PM,SPM,False,False,False
+1,World,19,Americas,21,Northern America,,,United States of America,840,US,USA,False,False,False
+1,World,,,,,,,Antarctica,10,AQ,ATA,False,False,False
+1,World,142,Asia,143,Central Asia,,,Kazakhstan,398,KZ,KAZ,False,True,False
+1,World,142,Asia,143,Central Asia,,,Kyrgyzstan,417,KG,KGZ,False,True,False
+1,World,142,Asia,143,Central Asia,,,Tajikistan,762,TJ,TJK,False,True,False
+1,World,142,Asia,143,Central Asia,,,Turkmenistan,795,TM,TKM,False,True,False
+1,World,142,Asia,143,Central Asia,,,Uzbekistan,860,UZ,UZB,False,True,False
+1,World,142,Asia,30,Eastern Asia,,,China,156,CN,CHN,False,False,False
+1,World,142,Asia,30,Eastern Asia,,,"China, Hong Kong Special Administrative Region",344,HK,HKG,False,False,False
+1,World,142,Asia,30,Eastern Asia,,,"China, Macao Special Administrative Region",446,MO,MAC,False,False,False
+1,World,142,Asia,30,Eastern Asia,,,Democratic People's Republic of Korea,408,KP,PRK,False,False,False
+1,World,142,Asia,30,Eastern Asia,,,Japan,392,JP,JPN,False,False,False
+1,World,142,Asia,30,Eastern Asia,,,Mongolia,496,MN,MNG,False,True,False
+1,World,142,Asia,30,Eastern Asia,,,Republic of Korea,410,KR,KOR,False,False,False
+1,World,142,Asia,35,South-eastern Asia,,,Brunei Darussalam,96,BN,BRN,False,False,False
+1,World,142,Asia,35,South-eastern Asia,,,Cambodia,116,KH,KHM,True,False,False
+1,World,142,Asia,35,South-eastern Asia,,,Indonesia,360,ID,IDN,False,False,False
+1,World,142,Asia,35,South-eastern Asia,,,Lao People's Democratic Republic,418,LA,LAO,True,True,False
+1,World,142,Asia,35,South-eastern Asia,,,Malaysia,458,MY,MYS,False,False,False
+1,World,142,Asia,35,South-eastern Asia,,,Myanmar,104,MM,MMR,True,False,False
+1,World,142,Asia,35,South-eastern Asia,,,Philippines,608,PH,PHL,False,False,False
+1,World,142,Asia,35,South-eastern Asia,,,Singapore,702,SG,SGP,False,False,True
+1,World,142,Asia,35,South-eastern Asia,,,Thailand,764,TH,THA,False,False,False
+1,World,142,Asia,35,South-eastern Asia,,,Timor-Leste,626,TL,TLS,True,False,True
+1,World,142,Asia,35,South-eastern Asia,,,Viet Nam,704,VN,VNM,False,False,False
+1,World,142,Asia,34,Southern Asia,,,Afghanistan,4,AF,AFG,True,True,False
+1,World,142,Asia,34,Southern Asia,,,Bangladesh,50,BD,BGD,True,False,False
+1,World,142,Asia,34,Southern Asia,,,Bhutan,64,BT,BTN,False,True,False
+1,World,142,Asia,34,Southern Asia,,,India,356,IN,IND,False,False,False
+1,World,142,Asia,34,Southern Asia,,,Iran (Islamic Republic of),364,IR,IRN,False,False,False
+1,World,142,Asia,34,Southern Asia,,,Maldives,462,MV,MDV,False,False,True
+1,World,142,Asia,34,Southern Asia,,,Nepal,524,NP,NPL,True,True,False
+1,World,142,Asia,34,Southern Asia,,,Pakistan,586,PK,PAK,False,False,False
+1,World,142,Asia,34,Southern Asia,,,Sri Lanka,144,LK,LKA,False,False,False
+1,World,142,Asia,145,Western Asia,,,Armenia,51,AM,ARM,False,True,False
+1,World,142,Asia,145,Western Asia,,,Azerbaijan,31,AZ,AZE,False,True,False
+1,World,142,Asia,145,Western Asia,,,Bahrain,48,BH,BHR,False,False,False
+1,World,142,Asia,145,Western Asia,,,Cyprus,196,CY,CYP,False,False,False
+1,World,142,Asia,145,Western Asia,,,Georgia,268,GE,GEO,False,False,False
+1,World,142,Asia,145,Western Asia,,,Iraq,368,IQ,IRQ,False,False,False
+1,World,142,Asia,145,Western Asia,,,Israel,376,IL,ISR,False,False,False
+1,World,142,Asia,145,Western Asia,,,Jordan,400,JO,JOR,False,False,False
+1,World,142,Asia,145,Western Asia,,,Kuwait,414,KW,KWT,False,False,False
+1,World,142,Asia,145,Western Asia,,,Lebanon,422,LB,LBN,False,False,False
+1,World,142,Asia,145,Western Asia,,,Oman,512,OM,OMN,False,False,False
+1,World,142,Asia,145,Western Asia,,,Qatar,634,QA,QAT,False,False,False
+1,World,142,Asia,145,Western Asia,,,Saudi Arabia,682,SA,SAU,False,False,False
+1,World,142,Asia,145,Western Asia,,,State of Palestine,275,PS,PSE,False,False,False
+1,World,142,Asia,145,Western Asia,,,Syrian Arab Republic,760,SY,SYR,False,False,False
+1,World,142,Asia,145,Western Asia,,,Türkiye,792,TR,TUR,False,False,False
+1,World,142,Asia,145,Western Asia,,,United Arab Emirates,784,AE,ARE,False,False,False
+1,World,142,Asia,145,Western Asia,,,Yemen,887,YE,YEM,True,False,False
+1,World,150,Europe,151,Eastern Europe,,,Belarus,112,BY,BLR,False,False,False
+1,World,150,Europe,151,Eastern Europe,,,Bulgaria,100,BG,BGR,False,False,False
+1,World,150,Europe,151,Eastern Europe,,,Czechia,203,CZ,CZE,False,False,False
+1,World,150,Europe,151,Eastern Europe,,,Hungary,348,HU,HUN,False,False,False
+1,World,150,Europe,151,Eastern Europe,,,Poland,616,PL,POL,False,False,False
+1,World,150,Europe,151,Eastern Europe,,,Republic of Moldova,498,MD,MDA,False,True,False
+1,World,150,Europe,151,Eastern Europe,,,Romania,642,RO,ROU,False,False,False
+1,World,150,Europe,151,Eastern Europe,,,Russian Federation,643,RU,RUS,False,False,False
+1,World,150,Europe,151,Eastern Europe,,,Slovakia,703,SK,SVK,False,False,False
+1,World,150,Europe,151,Eastern Europe,,,Ukraine,804,UA,UKR,False,False,False
+1,World,150,Europe,154,Northern Europe,,,Åland Islands,248,AX,ALA,False,False,False
+1,World,150,Europe,154,Northern Europe,,,Denmark,208,DK,DNK,False,False,False
+1,World,150,Europe,154,Northern Europe,,,Estonia,233,EE,EST,False,False,False
+1,World,150,Europe,154,Northern Europe,,,Faroe Islands,234,FO,FRO,False,False,False
+1,World,150,Europe,154,Northern Europe,,,Finland,246,FI,FIN,False,False,False
+1,World,150,Europe,154,Northern Europe,,,Guernsey,831,GG,GGY,False,False,False
+1,World,150,Europe,154,Northern Europe,,,Iceland,352,IS,ISL,False,False,False
+1,World,150,Europe,154,Northern Europe,,,Ireland,372,IE,IRL,False,False,False
+1,World,150,Europe,154,Northern Europe,,,Isle of Man,833,IM,IMN,False,False,False
+1,World,150,Europe,154,Northern Europe,,,Jersey,832,JE,JEY,False,False,False
+1,World,150,Europe,154,Northern Europe,,,Latvia,428,LV,LVA,False,False,False
+1,World,150,Europe,154,Northern Europe,,,Lithuania,440,LT,LTU,False,False,False
+1,World,150,Europe,154,Northern Europe,,,Norway,578,NO,NOR,False,False,False
+1,World,150,Europe,154,Northern Europe,,,Svalbard and Jan Mayen Islands,744,SJ,SJM,False,False,False
+1,World,150,Europe,154,Northern Europe,,,Sweden,752,SE,SWE,False,False,False
+1,World,150,Europe,154,Northern Europe,,,United Kingdom of Great Britain and Northern Ireland,826,GB,GBR,False,False,False
+1,World,150,Europe,39,Southern Europe,,,Albania,8,AL,ALB,False,False,False
+1,World,150,Europe,39,Southern Europe,,,Andorra,20,AD,AND,False,False,False
+1,World,150,Europe,39,Southern Europe,,,Bosnia and Herzegovina,70,BA,BIH,False,False,False
+1,World,150,Europe,39,Southern Europe,,,Croatia,191,HR,HRV,False,False,False
+1,World,150,Europe,39,Southern Europe,,,Gibraltar,292,GI,GIB,False,False,False
+1,World,150,Europe,39,Southern Europe,,,Greece,300,GR,GRC,False,False,False
+1,World,150,Europe,39,Southern Europe,,,Holy See,336,VA,VAT,False,False,False
+1,World,150,Europe,39,Southern Europe,,,Italy,380,IT,ITA,False,False,False
+1,World,150,Europe,39,Southern Europe,,,Malta,470,MT,MLT,False,False,False
+1,World,150,Europe,39,Southern Europe,,,Montenegro,499,ME,MNE,False,False,False
+1,World,150,Europe,39,Southern Europe,,,North Macedonia,807,MK,MKD,False,True,False
+1,World,150,Europe,39,Southern Europe,,,Portugal,620,PT,PRT,False,False,False
+1,World,150,Europe,39,Southern Europe,,,San Marino,674,SM,SMR,False,False,False
+1,World,150,Europe,39,Southern Europe,,,Serbia,688,RS,SRB,False,False,False
+1,World,150,Europe,39,Southern Europe,,,Slovenia,705,SI,SVN,False,False,False
+1,World,150,Europe,39,Southern Europe,,,Spain,724,ES,ESP,False,False,False
+1,World,150,Europe,155,Western Europe,,,Austria,40,AT,AUT,False,False,False
+1,World,150,Europe,155,Western Europe,,,Belgium,56,BE,BEL,False,False,False
+1,World,150,Europe,155,Western Europe,,,France,250,FR,FRA,False,False,False
+1,World,150,Europe,155,Western Europe,,,Germany,276,DE,DEU,False,False,False
+1,World,150,Europe,155,Western Europe,,,Liechtenstein,438,LI,LIE,False,False,False
+1,World,150,Europe,155,Western Europe,,,Luxembourg,442,LU,LUX,False,False,False
+1,World,150,Europe,155,Western Europe,,,Monaco,492,MC,MCO,False,False,False
+1,World,150,Europe,155,Western Europe,,,Netherlands (Kingdom of the),528,NL,NLD,False,False,False
+1,World,150,Europe,155,Western Europe,,,Switzerland,756,CH,CHE,False,False,False
+1,World,9,Oceania,53,Australia and New Zealand,,,Australia,36,AU,AUS,False,False,False
+1,World,9,Oceania,53,Australia and New Zealand,,,Christmas Island,162,CX,CXR,False,False,False
+1,World,9,Oceania,53,Australia and New Zealand,,,Cocos (Keeling) Islands,166,CC,CCK,False,False,False
+1,World,9,Oceania,53,Australia and New Zealand,,,Heard Island and McDonald Islands,334,HM,HMD,False,False,False
+1,World,9,Oceania,53,Australia and New Zealand,,,New Zealand,554,NZ,NZL,False,False,False
+1,World,9,Oceania,53,Australia and New Zealand,,,Norfolk Island,574,NF,NFK,False,False,False
+1,World,9,Oceania,54,Melanesia,,,Fiji,242,FJ,FJI,False,False,True
+1,World,9,Oceania,54,Melanesia,,,New Caledonia,540,NC,NCL,False,False,True
+1,World,9,Oceania,54,Melanesia,,,Papua New Guinea,598,PG,PNG,False,False,True
+1,World,9,Oceania,54,Melanesia,,,Solomon Islands,90,SB,SLB,True,False,True
+1,World,9,Oceania,54,Melanesia,,,Vanuatu,548,VU,VUT,False,False,True
+1,World,9,Oceania,57,Micronesia,,,Guam,316,GU,GUM,False,False,True
+1,World,9,Oceania,57,Micronesia,,,Kiribati,296,KI,KIR,True,False,True
+1,World,9,Oceania,57,Micronesia,,,Marshall Islands,584,MH,MHL,False,False,True
+1,World,9,Oceania,57,Micronesia,,,Micronesia (Federated States of),583,FM,FSM,False,False,True
+1,World,9,Oceania,57,Micronesia,,,Nauru,520,NR,NRU,False,False,True
+1,World,9,Oceania,57,Micronesia,,,Northern Mariana Islands,580,MP,MNP,False,False,True
+1,World,9,Oceania,57,Micronesia,,,Palau,585,PW,PLW,False,False,True
+1,World,9,Oceania,57,Micronesia,,,United States Minor Outlying Islands,581,UM,UMI,False,False,False
+1,World,9,Oceania,61,Polynesia,,,American Samoa,16,AS,ASM,False,False,True
+1,World,9,Oceania,61,Polynesia,,,Cook Islands,184,CK,COK,False,False,True
+1,World,9,Oceania,61,Polynesia,,,French Polynesia,258,PF,PYF,False,False,True
+1,World,9,Oceania,61,Polynesia,,,Niue,570,NU,NIU,False,False,True
+1,World,9,Oceania,61,Polynesia,,,Pitcairn,612,PN,PCN,False,False,False
+1,World,9,Oceania,61,Polynesia,,,Samoa,882,WS,WSM,False,False,True
+1,World,9,Oceania,61,Polynesia,,,Tokelau,772,TK,TKL,False,False,False
+1,World,9,Oceania,61,Polynesia,,,Tonga,776,TO,TON,False,False,True
+1,World,9,Oceania,61,Polynesia,,,Tuvalu,798,TV,TUV,True,False,True
+1,World,9,Oceania,61,Polynesia,,,Wallis and Futuna Islands,876,WF,WLF,False,False,False

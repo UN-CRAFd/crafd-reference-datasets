@@ -1,0 +1,2 @@
+- use `uv run python` to execute Python scripts
+- use `uv add` to install packages/libraries
