@@ -80,6 +80,21 @@ print("\nData types:")
 print(df.dtypes)
 
 
+# Export to public directory for API
+public_path = Path("public")
+public_path.mkdir(parents=True, exist_ok=True)
+
+# Export as CSV
+csv_export_path = public_path / "unsd_m49_countries.csv"
+df.to_csv(csv_export_path, index=False)
+print(f"✓ Exported to {csv_export_path}")
+
+# Export as JSON
+json_export_path = public_path / "unsd_m49_countries.json"
+df.to_json(json_export_path, orient="records", indent=2)
+print(f"✓ Exported to {json_export_path}")
+
+
 # ISO 3166-1 Alpha-2 (-> Primary Key)
 
 # ISO 3166-1 Numeric
